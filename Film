@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE",Metro
-https://scontent.fsub8-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-104/_nc_sr_t-16/v/rASfjILLZZzbZYHicNfo80OpDYetgvlv6-JevIffvGwFPNw/_nc_ohc-slV2X2nUFwoQ7kNvgHphXQi/live-dash/dash-abr-ibr-audio/1046708326825082.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AYDMmHmke0JElmtS_e9Bfp2Yjcm4iHDsx-kvSKiO_X76Zw&oe=66A3FDB8
-#EXTINF:-1 group-title="LIVE",RCTI
-https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 group-title="LIVE",GTV
-https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 group-title="LIVE",MNCTV
-https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="LIVE",Mobile Legends
+https://scontent.fsub8-1.fna.fbcdn.net/hvideo-cco-ash/_nc_cat-1/_nc_sr_t-4/v/rASdN7OvlDW4cgYu8O_LA7XwZRp3eb1bKa2M9lESz0KMcfQ/_nc_ohc-KpTJyz13a0MQ7kNvgGRkEPc/live-dash/dash-abr-ibr-audio/522870110312455.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AYCMEdFNUUROsQsHqXaQgEezIVzTwsirkQEgLyID2eMd_g&oe=66A43CF6
 
 
 
