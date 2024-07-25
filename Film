@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE",Mobile Legends
 https://scontent.fsub8-1.fna.fbcdn.net/hvideo-cco-ash/_nc_cat-1/_nc_sr_t-4/v/rASdN7OvlDW4cgYu8O_LA7XwZRp3eb1bKa2M9lESz0KMcfQ/_nc_ohc-KpTJyz13a0MQ7kNvgGRkEPc/live-dash/dash-abr-ibr-audio/522870110312455.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AYCMEdFNUUROsQsHqXaQgEezIVzTwsirkQEgLyID2eMd_g&oe=66A43CF6
-
+#EXTINF:-1 group-title="LIVE",Indo
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1721939046~acl=%2f*~id=allUsers~data=hdntl~hmac=66062b508b61977d6a6ab3968cee049b6e50e8552accde08397df3d1d4a4c31a
 
 
 
