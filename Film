@@ -2,9 +2,13 @@
 #EXTINF:-1 group-title="LIVE",Metro
 https://scontent.fsub8-2.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-104/_nc_sr_t-16/v/rASfjILLZZzbZYHicNfo80OpDYetgvlv6-JevIffvGwFPNw/_nc_ohc-slV2X2nUFwoQ7kNvgHphXQi/live-dash/dash-abr-ibr-audio/1046708326825082.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AYDMmHmke0JElmtS_e9Bfp2Yjcm4iHDsx-kvSKiO_X76Zw&oe=66A3FDB8
 #EXTINF:-1 group-title="LIVE",RCTI
-https://midcache.rctiplus.id/live/shopplus_20240725.m3u8
-#EXTINF:-1 group-title="LIVE",SCTV
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdnts=exp=1721922227~acl=/vp9/*~id=allUsers~hmac=75a4d12cf3010e9d3fd2e9d18dcf4e539290079e989d4b0a96ef033944f70243
+https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="LIVE",GTV
+https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="LIVE",MNCTV
+https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
 
 
 #EXTINF:-1 group-title="INDO 2023",13 Bomb Di Jakarta
