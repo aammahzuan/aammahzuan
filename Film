@@ -3,10 +3,10 @@
 https://lebo.huminbird.cn/live/ballbar_38460.m3u8
 
 #EXTINF:-1 group-title="LIVE",Live Badminton 2
-https://lebo.huminbird.cn/live/ballbar_15890.m3u8
+https://lebo.huminbird.cn/live/ballbar_38460.m3u8
 
-#EXTINF:-1 group-title="LIVE",Liga BRI
-https://ttx0003ing-cf.cool6bcd6.cc/auth%3D4df1c4f5572c8728aaf10f5bc9004adf34adc07bca11b6cddeb943d9243d913d7c7882e3dd3607678a2e42b487ab7cd0975a95c01554149f710cf26be059a8ccab07a27e727fee17fa8d2b42da58c4432e3b4826043d9061d89c2815ff48f17461b7bfb5b791c5b7ae25b1ae46c0d19c36db7f63b5df33b8cae9d4e702e53175faf5a096ede9001ef471540afd0e2d5630790010e5c81f78329aaada0222e310%26cid%3DMkY-m0WgkIib_LvUdqhmv240729%26_v%3D2%26_r%3D5pimlh%26_vis%3Dbb233daf530fe54d6ac8beb77b3fde2e7d3a1bdeb59425a34c71da71f24044f1%26_vvs%3D262c9400ca3e2ca977b60821e7cc69d0c87cf22aac571ef0ffde4a56467bb490/app/c264775.m3u8
+#EXTINF:-1 group-title="LIVE",Live Badminton 3
+https://lebo.huminbird.cn/live/ballbar_30220.m3u8
 
 #EXTINF:-1 tvg-id="OLYMPICS (from CANADA)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (from CANADA)
 http://live.lordstreams.co:8080/live/832396166/1982148236/686811.m3u8
