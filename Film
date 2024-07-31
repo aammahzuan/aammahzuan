@@ -1,6 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE",Timnas
-https://ttx0003ing-cf.cool6bcd6.cc/auth%3Dfa9e12718a623cace3d544f0b926a7b7c5d6acce6debc18c7ecd80ea0a7a6452ab46773e46e73180879f7112cb58bc875a5d8d4bb126d2470d6ea4f654f509156482251f2a8aca9eb694346f6d94a21c2d2de317dc5e025631a88102692ce04efa33c99ee595e9b79cc97a38dace9777e79b346fc4a07d28871fe5c391d73012346e120ab01cb33b7d5257d15e8d84e3d2a824baa49ed04666d58a2a746d88f590d8aa1493e0a94b38570340f0bc6351cc9e2068ff8e526e155a6274544e4147%26cid%3DMkY-m0WgkIib_LvUdqhmv240729%26_v%3D2%26_r%3DftJzow%26_vis%3D3d2e775cf9444b959710b40c6cdb49918762d03a20872ef1c31f6814718b62e9%26_vvs%3Dfbfae033832510ed077cdee6c2134daf425311adb7940a7f910c4ce1e2774167/app/c264442.m3u8
+#EXTINF:-1 tvg-id="OLYMPICS (from CANADA)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (from CANADA)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686811.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (US CNBC)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686812.m3u8
+
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (USA NETWORK)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686813.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 1" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 1
+http://live.lordstreams.co:8080/live/832396166/1982148236/687461.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 2" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 2
+http://live.lordstreams.co:8080/live/832396166/1982148236/687462.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 3" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 3
+http://live.lordstreams.co:8080/live/832396166/1982148236/687463.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 4" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 4
+http://live.lordstreams.co:8080/live/832396166/1982148236/687464.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 5" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 5
+http://live.lordstreams.co:8080/live/832396166/1982148236/687465.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 6" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 6
+http://live.lordstreams.co:8080/live/832396166/1982148236/687466.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 7" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 7
+http://live.lordstreams.co:8080/live/832396166/1982148236/687467.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 8" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 8
+http://live.lordstreams.co:8080/live/832396166/1982148236/687468.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 9" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 9
+http://live.lordstreams.co:8080/live/832396166/1982148236/687469.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport UHD/4K (CZ)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport UHD/4K (CZ)
+http://live.lordstreams.co:8080/live/832396166/1982148236/687470.m3u8
+
 
 
 
