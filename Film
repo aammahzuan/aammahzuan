@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE",Live Badminton 1
-https://lebo.huminbird.cn/live/ballbar_38460.m3u8
-
-#EXTINF:-1 group-title="LIVE",Live Badminton 2
-https://lebo.huminbird.cn/live/ballbar_38460.m3u8
-
-#EXTINF:-1 group-title="LIVE",Live Badminton 3
-https://lebo.huminbird.cn/live/ballbar_30220.m3u8
+#EXTINF:-1 group-title="LIVE",Live Badminton
+https://lebo.huminbird.cn/live/ballbar_30750.m3u8
 
 #EXTINF:-1 tvg-id="OLYMPICS (from CANADA)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (from CANADA)
 http://live.lordstreams.co:8080/live/832396166/1982148236/686811.m3u8
