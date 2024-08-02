@@ -150,9 +150,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -160,7 +157,14 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png", Kompas TV
 https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-
+#EXTINF:-1 group-title="Warkop DKI",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1HhCk4RVzPTjAYUbvxqTztJpmf6E5xxu0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1lTAXcjTxr9i1ifT1KYmLwGS5RZrS0TNi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Masuk Kena Keluar Kena
+https://www.googleapis.com/drive/v3/files/1u6Cxf8zEh7Nah0-Um9FZJxHwQX8jtNaD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="INDO 2023",13 Bomb Di Jakarta
 https://pixeldrain.com/api/file/ezqDwxkK?download
