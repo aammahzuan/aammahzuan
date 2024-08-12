@@ -1,48 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live",Jala Live
-https://bf.qsj68.cn/live/322665_hd01.m3u8?txSecret=4e3aa60128e68f616e0ec1928395a426&txTime=66ba0079
 
-
-
-#EXTINF:-1 tvg-id="OLYMPICS (from CANADA)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (from CANADA)
-http://live.lordstreams.co:8080/live/832396166/1982148236/686811.m3u8
-
-#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (US CNBC)
-http://live.lordstreams.co:8080/live/832396166/1982148236/686812.m3u8
-
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (USA NETWORK)
-http://live.lordstreams.co:8080/live/832396166/1982148236/686813.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 1" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 1
-http://live.lordstreams.co:8080/live/832396166/1982148236/687461.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 2" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 2
-http://live.lordstreams.co:8080/live/832396166/1982148236/687462.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 3" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 3
-http://live.lordstreams.co:8080/live/832396166/1982148236/687463.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 4" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 4
-http://live.lordstreams.co:8080/live/832396166/1982148236/687464.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 5" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 5
-http://live.lordstreams.co:8080/live/832396166/1982148236/687465.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 6" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 6
-http://live.lordstreams.co:8080/live/832396166/1982148236/687466.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 7" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 7
-http://live.lordstreams.co:8080/live/832396166/1982148236/687467.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 8" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 8
-http://live.lordstreams.co:8080/live/832396166/1982148236/687468.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport 9" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 9
-http://live.lordstreams.co:8080/live/832396166/1982148236/687469.m3u8
-
-#EXTINF:-1 tvg-id="(Olympics) Eurosport UHD/4K (CZ)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport UHD/4K (CZ)
-http://live.lordstreams.co:8080/live/832396166/1982148236/687470.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -163,6 +121,47 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/4mga5xltpd3ygxn/kompastv.png", Kompas TV
 https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+
+
+
+#EXTINF:-1 tvg-id="OLYMPICS (from CANADA)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (from CANADA)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686811.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (US CNBC)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686812.m3u8
+
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", OLYMPICS (USA NETWORK)
+http://live.lordstreams.co:8080/live/832396166/1982148236/686813.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 1" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 1
+http://live.lordstreams.co:8080/live/832396166/1982148236/687461.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 2" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 2
+http://live.lordstreams.co:8080/live/832396166/1982148236/687462.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 3" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 3
+http://live.lordstreams.co:8080/live/832396166/1982148236/687463.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 4" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 4
+http://live.lordstreams.co:8080/live/832396166/1982148236/687464.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 5" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 5
+http://live.lordstreams.co:8080/live/832396166/1982148236/687465.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 6" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 6
+http://live.lordstreams.co:8080/live/832396166/1982148236/687466.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 7" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 7
+http://live.lordstreams.co:8080/live/832396166/1982148236/687467.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 8" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 8
+http://live.lordstreams.co:8080/live/832396166/1982148236/687468.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport 9" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport 9
+http://live.lordstreams.co:8080/live/832396166/1982148236/687469.m3u8
+
+#EXTINF:-1 tvg-id="(Olympics) Eurosport UHD/4K (CZ)" tvg-logo="noimage.png" group-title="SPORT-OLYMPICS", (Olympics) Eurosport UHD/4K (CZ)
+http://live.lordstreams.co:8080/live/832396166/1982148236/687470.m3u8
 
 ------Vod 2024--------
 #EXTINF:-1 group-title="VOD 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/l0CaVyqnTsWwNd4hWsrLNEk1Wjd-60x90.jpg",A Family Affair
