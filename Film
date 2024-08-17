@@ -86,20 +86,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="OLAHRAGA", ASTRO ARENA 2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/185822.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="OLAHRAGA", HUB SPORTS 1
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="OLAHRAGA", HUB SPORTS 2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="OLAHRAGA", HUB SPORTS 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36303.m3u8
-
-#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36302.m3u8
-
-#EXTINF:-1 tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36301.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 3 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
