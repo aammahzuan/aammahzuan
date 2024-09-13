@@ -1,57 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",ANTV (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",VTV HD
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",BTV (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bn.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",BN CHANNEL
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="🇮🇩 [ Indonesia ] 🇮🇩",DAAITV 
-https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",INDOSIAR (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/d1FuuEv.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",INDOSIAR
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1705631719_IDTV-88-WARNA-HD.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",MOJI (IndiHomeTV)
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indonesiana_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",INDONESIANA.TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",MOJI
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",SCTV (DENSTV)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",SCTV (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3rDN.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",NTV HD
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",SCTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/Jmo8ULF.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",RRI NET HD
+https://private-streaming.rri.go.id/memfs/ff303a23-f1db-4cb3-95f9-4ae7bef2a392_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",SCTV (IndihomeTV)
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/d1FcfV9.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",TRANS7 (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/d1FuuEv.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",Sea today Intech
+https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",TRANS7 (IndiHomeTV)
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",VTV Intec
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",TRANSTV (CubMu)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JV3xZtS.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",METRO TV HD
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",TRANSTV (IndiHomeTV)
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8?checkedby:iptvcat.com" group-title="🇮🇩 [ Indonesia ] 🇮🇩",DUNIA GAME
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="🇮🇩 [ Indonesia ] 🇮🇩", TRANS 7 TEST
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="🇮🇩 [ Indonesia ] 🇮🇩", TRANSTV TEST
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(784e32da-bdac-7794-7122-0989aaf8959e)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uJTTmk8.png?v=1.0.0.1" group-title="🇮🇩 [ Indonesia ] 🇮🇩", CNBC INDONESIA
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e574e33-dea7-5e88-b5f8-7b4c189ab578)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/d1FFU4n.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩", GTV DIGITAL
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 
 
 
