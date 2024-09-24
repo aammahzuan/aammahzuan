@@ -1,6 +1,241 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGykpxa.png" group-title="INDONESIA",BTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
+
+##https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7unuGXH.png" group-title="INDONESIA", DAAI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tvg-logo="https://i-meatballs.bunkr.ru/tvri-Fisp6Oej.png?download=true",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tvg-logo="https://i-meatballs.bunkr.ru/tvri-sport-yUJK2s9h.png?download=true",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i-meatballs.bunkr.ru/indosiar-UuZW5qZJ.png?download=true" group-title="INDONESIA",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i-meatballs.bunkr.ru/indosiar-UuZW5qZJ.png?download=true" group-title="INDONESIA",INDOSIAR 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MOJI" tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true",MOJI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true" group-title="INDONESIA",Moji2
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:0 CUID="4" tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://i-meatballs.bunkr.ru/rcti-MpHL52Us.png?download=true" group-title="INDONESIA",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd 
+
+#EXTINF:0 CUID="4" tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://i-meatballs.bunkr.ru/rcti-MpHL52Us.png?download=true" group-title="INDONESIA",RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/630
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/transtv-TwKxugAt.png?download=true",TRANS TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/transtv-TwKxugAt.png?download=true",TRANS TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/634
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/transtv-TwKxugAt.png?download=true",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/8SZGcQO.png",OK TV
+https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="rajawalitv.id" tvg-logo="https://i.imgur.com/RXEluY9.png",RTV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd 
+**https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id 
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/623
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/636
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac9e046fa8824f07b8ee452e9636e4d3:2fcd8809f4cb34519135131bc3dc6786
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d01a212a4930e08b6d65b4a6f807af:c8a23a2b6d8f6d4eb9e28a4fde919493
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(860b78cb-39ac-46c3-b070-4db13493381a)/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i-meatballs.bunkr.ru/metro-global-WQzFR5ab.png?download=true",METRO GLOBE INDONESIA 3
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="METRO TV" tvg-logo="https://i-meatballs.bunkr.ru/metro-yZCrAigb.png?download=true",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://210.210.155.37/uq2663/h/h12/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/iNews-JNNhqFts.png?download=true" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNEWSTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd 
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/iNews-JNNhqFts.png?download=true" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNEWSTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/633
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/iNews-JNNhqFts.png?download=true" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNEWSTV 3
+https://ytlive.zazerconer.workers.dev/@OfficialiNews.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/635
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE 3
+https://sonar.ytlive.workers.dev/stream/UCER4rvDnRBPr_ncYW4UCZjg/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="USEE PRIME" tvg-logo="https://i-meatballs.bunkr.ru/usee-tv-rS4wABqM.png?download=true",USEE PRIME
+#https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/kompas-pIjmwwkW.png?download=true" group-title="INDONESIA",Kompas TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/kompas-pIjmwwkW.png?download=true" group-title="INDONESIA",Kompas TV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/639
+
+#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/kompas-pIjmwwkW.png?download=true" group-title="INDONESIA",Kompas TV 3
+https://sonar.ytlive.workers.dev/stream/UC5BMIWZe9isJXLZZWPWvBlg/master.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="BERITA SATU" tvg-logo="https://i-meatballs.bunkr.ru/bts-TBiCAsTC.png?download=true",BERITA SATU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+#https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="CNBC INDONESIA" tvg-logo="https://i-meatballs.bunkr.ru/nbc-VB1f7miv.png?download=true",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="CNN INDONESIA" tvg-logo="https://i-meatballs.bunkr.ru/cnn-PVvAmv2p.png?download=true",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i-meatballs.bunkr.ru/sctv-sM2sfsjo.png?download=true" group-title="INDONESIA",SCTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://hometv.web.id/nvchome/hBK3vdFLmB/sctv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i-meatballs.bunkr.ru/sctv-sM2sfsjo.png?download=true" group-title="INDONESIA",SCTV
+http://210.210.155.37/uq2663/h/h217/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://big-taco-1img.bunkr.ru/20231022_190354-duqCAStK.png?download=true" group-title="INDONESIA",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i-meatballs.bunkr.ru/mnctv-z9U4JyUG.png?download=true",MNC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd 
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i-meatballs.bunkr.ru/mnctv-z9U4JyUG.png?download=true",MNC TV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/631
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/gtv-hi9Y5QVS.png?download=true",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/gtv-hi9Y5QVS.png?download=true",GTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/632
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="wakhaji" group-title="INDONESIA" tvg-logo="https://i-milkshake.bunkr.ru/20231027_131137-9ffCtzzx.png?download=true",GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/net-tv-LKpIt05W.png?download=true",NET tv
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=spy-ber/1.0
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/net-tv-LKpIt05W.png?download=true",NET tv
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/637
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="wakhaji" group-title="INDONESIA" tvg-logo="https://i.imgur.com/lbOJmdm.png",VTV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://playlist-coffee.my.id/oxygen/vtv.m3u8
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="wakhaji" group-title="INDONESIA" tvg-logo="https://i.imgur.com/lbOJmdm.png",VTV 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#https://vtvtv.etus.link
+
+
+
+
+
 #EXTINF:-1 group-title="Indo"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 #EXTINF:-1 group-title="Indo"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
