@@ -1,9 +1,144 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Live",indonesia vs Timor Leste
-https://bf.shandongjnsd.com/live/5004240_hd01.m3u8?txSecret=6e398b23b00b650854db961037ec7ccd&txTime=66f6a357
-
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 1
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836032
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836033
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/transtv.png" group-title="INDO", TRANSTV DENS
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836034
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/trans7.png" group-title="INDO", TRANS 7
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836035
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/trans7.png" group-title="INDO", TRANS 7 LIVE
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836036
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 1
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836037
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836038
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="INDO", MNCTV 3
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836039
+#EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 1
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836040
+#EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836041
+#EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="INDO", RCTI 3
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836042
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDO", GTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836043
+#EXTINF: -1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDO", GTV2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836044
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO", INEWS
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836045
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDO", INEWS2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836046
+#EXTINF: -1 group-title="INDO", O CHANNEL
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836047
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836048
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836049
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="INDO", SCTV 3
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836050
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR LIVE
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836051
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836052
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/O35T8DAsB0exO6hiqak9afMvY6A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-71b8fe.jpg" group-title="INDO", INDOSIAR 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836053
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV HD
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836054
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836055
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDO", ANTV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836056
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO", NET TV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836057
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO", NET TV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836058
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="INDO", NET TV HD
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836059
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDO", RTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836060
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDO", RTV2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836061
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDO", RTV3
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836062
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="INDO", METRO TV HD
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836063
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="INDO", METRO TV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836064
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="INDO", METRO TV2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836065
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE 1
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836066
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836067
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836068
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png" group-title="INDO", TVONE HD
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836069
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO", KOMPAS TV VIDIO
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836070
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO", KOMPAS TV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836071
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDO", KOMPAS TV 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836072
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/beritasatu.png" group-title="INDO", BERITA SATU
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836073
+#EXTINF: -1 group-title="INDO", BERITA SATU
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836074
+#EXTINF: -1 group-title="INDO", BERITA SATU2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836075
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/cnnindo.png" group-title="INDO", CNN INDONESIA
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836076
+#EXTINF: -1 tvg-logo="https://lancartech.co.id/logo/lokal/cnnindo.png" group-title="INDO", CNN INDONESIA 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836077
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDO", TVRI
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836078
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="INDO", TVRI 2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836079
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5XlceHllfrw1piv1vHoG-oXZ-TQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="INDO", Dwtv
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836080
+#EXTINF: -1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5XlceHllfrw1piv1vHoG-oXZ-TQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="INDO", Dwtv2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836081
+#EXTINF: -1 group-title="INDO", TV EDUKASI
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836082
+#EXTINF: -1 group-title="INDO", MYTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836083
+#EXTINF: -1 group-title="INDO", ALJAZERATV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836084
+#EXTINF: -1 group-title="INDO", DAAITV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836085
+#EXTINF: -1 group-title="INDO", IDX CHANNEL
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836086
+#EXTINF: -1 group-title="INDO", CNBC INDONESIA
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836087
+#EXTINF: -1 group-title="INDO", RRI NET
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836088
+#EXTINF: -1 tvg-logo="https://i.ibb.co/jRb7jC7/ruang-trampil.png" group-title="INDO", Ruang Trampil
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836089
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FVFq6N1/sea.png" group-title="INDO", Sea Today
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836090
+#EXTINF: -1 tvg-id="RIYAN.bfbb7150208bcb13f1e0d04e6ee1a7a0.SHINTA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="INDO", Ochannel
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836091
+#EXTINF: -1 tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="INDO", JTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836092
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", UseePrime
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836093
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", Ruang Trampil
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836094
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", Usee Photo
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836095
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", Dunia Games TV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836096
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", TV Edukasi
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836097
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", JAK TV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836098
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", JAK TV2
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836099
+#EXTINF: -1 tvg-logo="TEST" group-title="INDO", JTV
+https://m3u-editor.com/serve/8f90f110-5898-11ec-8bae-37ff10124a99/445836100
 
 #EXTINF:-1 group-title="Indo"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
