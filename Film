@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Live",Timnas
+https://bf.shandongjnsd.com/live/5004240_hd01.m3u8?txSecret=541f8fb767591d4e550c9428f8079923&txTime=66f95000
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="OLAHRAGA", OPTUS 1 Australia
