@@ -4,11 +4,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7fBFQj9I3aQqJ6Zp_DUCQGEE9ZRLI8Jj69w&s" group-title="LIVE", LIVE1
 https://lebo.huminbird.cn/live/ballbar_17470.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIVE2
-https://bf.shandongjnsd.com/live/322580_hd01.m3u8?txSecret=b30ec44693d8c27f36711314752e1246&txTime=6730dc4c
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIVE3
-https://bf.shandongjnsd.com/live/322674_hd01.m3u8?txSecret=e0d1e8c3e803e3e4bd0b77e8d7f36453&txTime=6730dd00
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV INDONESIA", SCTV
