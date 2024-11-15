@@ -9,6 +9,10 @@ https://lebo.huminbird.cn/live/ballbar_40030.m3u8
 https://lebo.huminbird.cn/live/ballbar_37920.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7fBFQj9I3aQqJ6Zp_DUCQGEE9ZRLI8Jj69w&s" group-title="LIVE", LIVE2
+https://lebo.huminbird.cn/live/ballbar_40030.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV INDONESIA", SCTV
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV INDONESIA", SCTV (Server: 2)
