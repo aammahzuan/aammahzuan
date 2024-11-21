@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Live liga 1
 https://lebo.huminbird.cn/live/ballbar_14900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", badminton 
-https://lebo.huminbird.cn/live/ballbar_30290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga 1
+https://lebo.huminbird.cn/live/ballbar_20870.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV INDONESIA", SCTV
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
