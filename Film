@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Live  LVP VS RML
-https://bf.qsj868.cn/live/322582_hd01.m3u8?txSecret=4caab971e1cbe9a1d846427eb5d72593&txTime=67478574
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Live  liga
+https://lebo.huminbird.cn/live/ballbar_27660.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://zozotv.xyz:443/live/mubaen/k895427/50.ts
