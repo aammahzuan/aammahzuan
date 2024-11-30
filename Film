@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Live  Chelsea
-https://bf.qsj868.cn/live/322693_hd01.m3u8?txSecret=1886627bce86913bea39c93104e97e80&txTime=6748a961
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Live  LALIGA BARCA
+https://bf.qsj868.cn/live/5004240_hd01.m3u8?txSecret=2b74d8b6a70979bfce75f1cf07e8aa32&txTime=674b0aee
 
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
 https://zozotv.xyz:443/live/mubaen/k895427/50.ts
