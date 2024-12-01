@@ -6,6 +6,9 @@
 https://bf.qsj868.cn/live/322657_hd01.m3u8?txSecret=3620cd1d83cd982558ce2d92782d98c0&txTime=674c8287
 
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Live  Liga Inggris LVP VS CTY
+https://bf.qsj868.cn/live/322580_hd01.m3u8?txSecret=dc96a90711a1590f7627cee5ed00dcef&txTime=674c89b5
+
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="TV INDONESIA", SCTV
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
