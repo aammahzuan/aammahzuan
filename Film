@@ -1,8 +1,14 @@
 #EXTINF:-1
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA BRI BALI UNITED
-https://bf.qsj868.cn/live/322656_hd01.m3u8?txSecret=121bc85adf16042dfa575e33ff12ceca&txTime=67543e7a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", BAYERN MUNCHEN
+https://bf.qsj868.cn/live/322714_hd01.m3u8?txSecret=a2f312b1faee65a1f691d9448419afdf&txTime=67546112
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE",REAL VS BARCA
+https://bf.qsj868.cn/live/5004240_hd01.m3u8?txSecret=5fa520ee621371349a591f5708db40ff&txTime=675460e9
+
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA INGGRIS
+https://bf.qsj868.cn/live/322580_hd01.m3u8?txSecret=efa47faa72239352fc313877a791fb63&txTime=675460fd
 
 
 
