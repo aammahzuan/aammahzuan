@@ -1,8 +1,10 @@
 #EXTINF:-1
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", VIETNAM INDONESIA
-https://bf.qsj868.cn/live/322704_hd01.m3u8?txSecret=782225673c11b848fad78828d7a8d87e&txTime=675ed06e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA 1 DEWA UNITED
+https://bf.qsj868.cn/live/322667_hd01.m3u8?txSecret=7eba29794276490381d871aae402807f&txTime=676000f2
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA 1 AREMA
+https://bf.qsj868.cn/live/322656_hd01.m3u8?txSecret=005934e5b7da96b700f1691720412a3e&txTime=676000e0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
