@@ -2,6 +2,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", real Madrid 
+https://bf.qsj868.cn/live/322562_hd01.m3u8?txSecret=60c07ab4806bf0b73ad1b8afd7e6337e&txTime=6763032d
+
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
