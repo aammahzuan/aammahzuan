@@ -1,7 +1,6 @@
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA 1 BALI UNTITLED 
-https://bf.kmingjl.cn/live/322707_hd01.m3u8?txSecret=48820f3f7f1c99d13c7004b8d831d13c&txTime=6798d474
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Champions real Madrid 
+https://bf.kmingjl.com/live/322727_hd01.m3u8?txSecret=769cfd5146729a89677315ddb583df47&txTime=679a879a
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
