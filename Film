@@ -2,6 +2,11 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Champions real Madrid 
 https://bf.kmingjl.com/live/322727_hd01.m3u8?txSecret=769cfd5146729a89677315ddb583df47&txTime=679a879a
 
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Champions Barcelona vs Atalanta 
+https://bf.kmingjl.com/live/322707_hd01.m3u8?txSecret=56f4ddb2819d50204e0dd8e79cc937ed&txTime=679a87da
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
