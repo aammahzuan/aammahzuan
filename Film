@@ -1,10 +1,10 @@
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Champions real Madrid 
-https://bf.kmingjl.com/live/322727_hd01.m3u8?txSecret=769cfd5146729a89677315ddb583df47&txTime=679a879a
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Spanyol Barca 
+https://bf.kmingjl.com/live/322675_hd01.m3u8?txSecret=b06678a8def99d2076096dba4e9d722c&txTime=679f8623
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Champions Barcelona vs Atalanta 
-https://bf.kmingjl.com/live/322707_hd01.m3u8?txSecret=56f4ddb2819d50204e0dd8e79cc937ed&txTime=679a87da
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA Inggris MU
+https://bf.kmingjl.com/live/5004429_hd01.m3u8?txSecret=6b5bb5683e831a09c7c006ae5d7414dd&txTime=679f8613
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
