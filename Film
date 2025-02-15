@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA Inggris Leicester city vs Arsenal
-https://bf.qsj86.cn/live/322675_hd01.m3u8?txSecret=f2da535fb604ea6e63bd0cb7adb1da67&txTime=67b0830f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA Inggris Newcastle vs city
+https://bpcachezg4.nexttv.ht.hr:443/bpk-token/3ad@kor0y0aafkdltchzs2p4fcvrvrslugwgkiapnrca/bpk-tv/arena1_n/default/index.mpd?bkm-query
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga spanyol real Madrid
+https://bf.qsj86.cn/live/5004429_hd01.m3u8?txSecret=f18db975ca67fe4e5c9eb72b8ae62c4e&txTime=67b0ac0f
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
