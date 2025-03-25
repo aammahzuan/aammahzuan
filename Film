@@ -1,15 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", INDONESIA BAHRAIN
-https://d37nf5n4fr3338.cloudfront.net:443/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia Bahrain 
-https://d37nf5n4fr3338.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE", INDONESIA BAHRAIN
-https://edg00.smytdryt.live:443/Netspor-5/playlist.m3u8?match_id=12470670&s_id=1&t_id=188&stats=statssport.inplaynet.tech&timestamp=1742910420&key=VTJGc2RHVmtYMS8zT0p1VlhTU3RpZ2FnN05oM3F0SzFnMnU3UitHNVFXVjFmMWZQU3B0RS9MREljYVVEUUlTOGlMYmR3MXZMYnIyeDVoU0pxU29Ia21QcXUyeHd5VFJGZk9zWXdVcFE1OHQxNVpiWi9TVTFHZmd6WDVwcmxWOEljenVGUE11NEZORG0wMDh6NTRoUmxTS0tCekJjK2FZNFZ4cEpZTjlnVzg0PQ%3D%3D
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE", INDONESIA BAHRAIN
-https://vt-osoi7r4b.sportcdn.live/live/live-1-4146383-2.m3u8?txSecret=05894947e5aa983e26510e48a98f52b0&txTime=67e2ec08
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE", 
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
