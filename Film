@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",barca osasuna
-https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=403ce5a6176e981f5a820231fe02340b&txTime=67e5ac26
+#EXTINF:-1 tvg-logo="" group-title="LIVE",barca 
+https://bf.jllivese.com/live/322693_hd01.m3u8?txSecret=ae9895f44a8a830c108ff626282dcc06&txTime=67e9586f
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
