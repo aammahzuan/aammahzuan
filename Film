@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LALIGA BARCELONA 
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com:443/livetv/2024/live_laliga_tv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA Champions fc Bayern Munich vs inter Milan 
+https://bf.jllivese.com/live/322667_hd01.m3u8?txSecret=4a98ee13b4aa82dc0875c54fdaf3f126&txTime=67f57151
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA Champions Arsenal vs real Madrid
+https://bf.jllivese.com/live/322693_hd01.m3u8?txSecret=f6405228a344d9357ba3034dbb4c0977&txTime=67f5713f
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
