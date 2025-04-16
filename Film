@@ -3,6 +3,10 @@ https://bf.jllivese.com/live/5004451_hd01.m3u8?txSecret=2cf4f2c462bb5d62be62b909
 #EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA CHAMPIONS REAL MADRID VS ARSENAL
 https://bf.jllivese.com/live/322693_hd01.m3u8?txSecret=ea04f52736b2ccbae203831df923519f&txTime=67fff831
 
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA CHAMPIONS REAL MADRID VS ARSENAL
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
