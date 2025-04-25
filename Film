@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",TIMNAS Indonesia Arema
+#EXTINF:-1 tvg-logo="" group-title="LIVE",TIMNAS Indonesia
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA AREMANmm
-https://fhlsport121.fhs36f7.xyz/token-c0Z%2FmOScKfGGuzR%2BkfY6mD2KlJvTgijjbnP4waVKQTP2tObPHUFdDo8opR1NXkRJBCeIwzBhmvx1a/cfall/s2001/v3b/pno2opnqnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_599358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA AREMA
+http://357bo.sxlingchuangkeji.com/nami/sd-6MtMPH7Jr7vZLV6QEw.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
