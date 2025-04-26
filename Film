@@ -1,11 +1,7 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",BRIii innn
-https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=ee60f1bb8de36943e668f44d76fa6ec2&txTime=680b74fa
+https://bf.jabflive.com/live/322571_hd01.m3u8?txSecret=bc2c260d1bc0f25e606c00445830ea2e&txTime=680c4020
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Konoha 
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",LIGA AREMA
-http://357bo.sxlingchuangkeji.com/live/60_1745581787.m3u8
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
