@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris newstale
-https://bf.jabflive.com/live/322580_hd01.m3u8?txSecret=f8e19e031d9a0be76c8fb317ea3b057a&txTime=680cf34b
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Bayern Munich 
-https://bf.jabflive.com/live/322729_hd01.m3u8?txSecret=4ab1cae640770a62a0740fcc2085ece7&txTime=680cfb0f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Spanyol El clasico Real Madrid vs Barcelona 
+https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=9ffd2c629af40ae319f6789c3cff49c4&txTime=680d3788
+#EXTINF:-1 tvg-logo="" group-title="LIVE",El Clasico Real Madrid vs Barcelona 
+https://bf.jabflive.com/live/322698_hd01.m3u8?txSecret=4f25cbd259ee35b52735409e14ef58b8&txTime=680d376d
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
