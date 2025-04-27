@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Spanyol El clasico Real Madrid vs Barcelona 
-https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=9ffd2c629af40ae319f6789c3cff49c4&txTime=680d3788
-#EXTINF:-1 tvg-logo="" group-title="LIVE",El Clasico Real Madrid vs Barcelona 
-https://bf.jabflive.com/live/322698_hd01.m3u8?txSecret=4f25cbd259ee35b52735409e14ef58b8&txTime=680d376d
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Siii 
+https://bf.jabflive.com/live/322733_hd01.m3u8?txSecret=a8c9902327ade9f64dceb6b95a627fe9&txTime=680dcd91
+#EXTINF:-1 tvg-logo="" group-title="LIVE",El 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
