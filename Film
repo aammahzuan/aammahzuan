@@ -1,9 +1,6 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga Konoha Aremaa
 https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=887f5cadb822e8d35c5d8ff215fee708&txTime=6818a0ca
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIGA Italia as Roma 
-https://bf.jabflive.cc/live/322667_hd01.m3u8?txSecret=7a9f57083a5a39ed6736cf9fc5c5c5c5&txTime=68178b2d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Indonesia Persija 
-https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=a009905e733fc680e5246d9d1188e4d3&txTime=681761bb
+#EXTINF:-1 tvg-logo="" group-title="LIVE", 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
