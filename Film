@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga Indonesia Persija Jakarta vs Bali united 
 https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=6640e12f8c16284646367e2f9f67fe0e&txTime=681f3b98
-#EXTINF:-1 tvg-logo="" group-title="LIVE", 
+#EXTINF:-1 tvg-logo="" group-title="LIVE",
+https://bf.jabflive.cc/live/5004447_hd01.m3u8?txSecret=07bf4f65758aee2774742ffd7b00f808&txTime=681f5e07 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city
+https://bf.jabflive.cc/live/5004447_hd01.m3u8?txSecret=07bf4f65758aee2774742ffd7b00f808&txTime=681f5e07
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
