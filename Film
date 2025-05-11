@@ -4,6 +4,10 @@ https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=d4db95c7bfbc0c2c427edccf7
 https://bf.jabflive.cc/live/5004264_hd01.m3u8?txSecret=f6fd65f87eb01d067c5248e3cf71cd30&txTime=6820a428
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Manchster united 
 https://bf.jabflive.cc/live/5004451_hd01.m3u8?txSecret=437b0861746f365ee4d59a92b5959be5&txTime=68209cf8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",ELCLASICO
+https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=901d194b6e8e84310e967042840a578e&txTime=6820ab28
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga SPANYOL BARCELONA VS REAL MADRID
+https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=1e58b05ffdf35d0ae32eadced940d9c4&txTime=6820ab16
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
