@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga voli
 https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=d4db95c7bfbc0c2c427edccf7de56fcb&txTime=68209d0a
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris Newcastle
-https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=f0afa3f9eea13feac676733b504f3875&txTime=68209504
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Persebaya 
+https://bf.jabflive.cc/live/5004264_hd01.m3u8?txSecret=f6fd65f87eb01d067c5248e3cf71cd30&txTime=6820a428
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Manchster united 
 https://bf.jabflive.cc/live/5004451_hd01.m3u8?txSecret=437b0861746f365ee4d59a92b5959be5&txTime=68209cf8
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
