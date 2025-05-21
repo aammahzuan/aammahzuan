@@ -1,6 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga iii
-https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=3bfe9bbfe1ee05197cb3efd321de03f3&txTime=68297eed
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga final Manchester united vs Tottenham Hotspur https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=d82c0523fc5707b7890d0e963fc45945&txTime=682e3970
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
