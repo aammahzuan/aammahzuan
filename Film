@@ -1,6 +1,13 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga final liga  https://bf.jabflive.cc/live/322582_hd01.m3u8?txSecret=0bfc51a9e3f8a07c4be411ccfbffbd3e&txTime=682f3c99
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Real Madrid 
-https://bf.jabflive.cc/live/5004438_hd01.m3u8?txSecret=f7888617c1d85bfaf8719e90fd67ad6b&txTime=6832b0aa
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 1
+https://bf.jabflive.cc/live/5004426_hd01.m3u8?txSecret=dfe8821cc1a37cf4b02c10a3e295a7a2&txTime=6833332f
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga INGGRIS 2 https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=0c4d77b058a6802bb57854513239d389&txTime=6833331e
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga INGGRISSS 3 https://bf.jabflive.cc/live/322582_hd01.m3u8?txSecret=aa490f0b19143d7123d781cb2e965133&txTime=6833330b
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Real Madrid https://bf.jabflive.cc/live/322666_hd01.m3u8?txSecret=cac61cb08fbdeb53c35677ce5db72149&txTime=683332fa
+
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
