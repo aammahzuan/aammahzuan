@@ -5,6 +5,9 @@
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Malmo 
 https://bf.jabflive.cc/live/322666_hd01.m3u8?txSecret=735933bd500740f8eb39d4eb90e37e72&txTime=683876dc
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Riga live bola https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=a7c833a80ef43a82259a241dbb814caf&txTime=683877ca
+
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
