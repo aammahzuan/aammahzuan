@@ -1,11 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE"MU vs real https://bitdash-a.akamaihd.net/content/sintel/hls/playlist
 #EXTINF:-1 tvg-logo="" group-title="LIVE", final liga Champions inter VS PSG https://bf.jabflive.cc/live/322667_hd01.m3u8?txSecret=e260daddb89c5b9a61ca5e1ebd3e41da&txTime=683b52a4
-
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Champions league  Championshttps://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="LIVE", PSG
 https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=2b12e9b1ec456628202c7767fa053179&txTime=683b5317
-
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
