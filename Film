@@ -68,10 +68,8 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://mantul.biz.id:443/inetwork/gayanet12/174.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Suport Kitkat",NET
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE", RCTI 
-https://bf.jabflive.cc/live/322666_hd01.m3u8?txSecret=8c4ef0886fa3dd228f13f6c25c35bc91&txTime=6840a335
-#EXTINF:-1 tvg-logo="" group-title="LIVE",
-https://357bo.sxlingchuangkeji.com/live/305_1749063212.m3u8
+
+
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="Indonesia Channels",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
