@@ -5,6 +5,17 @@ https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=6ab277d13ef361c8d2c6bc1d3
 #EXTINF:-1 tvg-logo="" group-title="LIVE",FINAL INDONESIAN 
 https://357bo.sxlingchuangkeji.com/live/305_1749130110.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
+https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 2
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
+
+
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
