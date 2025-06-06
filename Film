@@ -1,9 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", UEFA NATION AL PRANCIS 
-https://357bo.sxlingchuangkeji.com/live/305_1749149409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE", BIG MACTH IN VS CIN
-https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=6ab277d13ef361c8d2c6bc1d39f53e3d&txTime=684198cf
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Prancis Spanyol 
-https://bf.jabflive.cc/live/5004240_hd01.m3u8?txSecret=b2882b4f29e43ca2c475a390c7511a3c&txTime=6841e4a5
+#EXTINF:-1 tvg-logo="" group-title="LIVE", UEFA ARGENTINA VS CHILE 
+https://bf.jabflive.cc/live/322720_hd01.m3u8?txSecret=cf6feab0496fe9129d64d1ea6bfb671d&txTime=68424161
+
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
