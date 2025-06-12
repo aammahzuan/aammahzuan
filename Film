@@ -1,12 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl china https://rumble.com/live-hls-dvr/6sh7u1/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vvNL volyhttps://rumble.com/live-hls-dvr/6sgclj/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://rumble.com/live-hls-dvr/6sgoc9/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="LIVE",2
-https://rumble.com/live-hls-dvr/6sgoc9/playlist.m3u8?
-#EXTINF:-1 tvg-logo="" group-title="LIVE",33
-https://rumble.com/live-hls-dvr/6sh7u1/playlist.m3u8?
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",nvl Polandia
+https://rumble.com/live-hls-dvr/6shdux/playlist.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1 Jepang
+https://rumble.com/live-hls-dvr/6shdux/playlist.m3u8?
 
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
