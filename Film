@@ -1,12 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",nvl brazil
-https://rumble.com/live-hls-dvr/6smlsz/playlist.m3u8?level=2
-#EXTINF:-1 tvg-logo="" group-title="LIVE",433
-https://rumble.com/live-hls-dvr/6smlsz/playlist.m3u8?level=2
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vll
-https://1a-1791.com/live/qt9k24wa/live-hls/h7fs-tuiu/chunklist_480p_i2_DVR.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",thhhj
-https://1a-1791.com/live/qt9k24wa/live-hls/h7fs-tuiu/chunklist_i2_DVR.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",nvll
+https://rumble.com/live-hls-dvr/6smr3x/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Polandia nvl
+https://rumble.com/live-hls-dvr/6smr3x/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1
+https://rumble.com/live-hls-dvr/6smr3x/playlist.m3u8?level=2
 
 .png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
