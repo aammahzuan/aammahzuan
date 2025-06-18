@@ -2,6 +2,11 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",rqqw
 https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=6fb2a3ff6a3e9876d6d42c644ae0d4cf&txTime=68530acd
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE",Real Madrid
+https://357bo.sxlingchuangkeji.com/live/367_1750272173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Real Madrid 152
+https://357bo.sxlingchuangkeji.com/live/367_1750272173.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="LIVE",536y
 https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=a01cc3bcc0da18d16f30b9e121e8579e&txTime=68530abd
 
