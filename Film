@@ -1,8 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",nvl putri 66
-https://rumble.com/live-hls-dvr/6srqxv/playlist.m3u8?level=2
-#EXTINF:-1 tvg-logo="" group-title="LIVE",555
-https://rumble.com/live-hls-dvr/6srqxv/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=ae0fa73777fc41636a1bf3cf63249c51&txTime=6852e3e6
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", MC vs real
+https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=ae0fa73777fc41636a1bf3cf63249c51&txTime=6852e3e6
 
 .png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
