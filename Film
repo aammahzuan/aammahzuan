@@ -1,9 +1,5 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",psggg
-https://357bo.sxlingchuangkeji.com/live/361_1750379486.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",7385w
-https://357bo.sxlingchuangkeji.com/live/361_1750379486.m3u8
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl 123
+https://rumble.com/live-hls-dvr/6sv9zn/playlist.m3u8?level=2.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
