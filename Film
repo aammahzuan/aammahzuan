@@ -1,8 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",jpn vnl
-https://rumble.com/live-hls-dvr/6svgnl/playlist.m3u8?level=2
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",uwu
-https://rumble.com/live-hls-dvr/6svgnl/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",frnacis
+https://rumble.com/live-hls-dvr/6svohj/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl blnda
+https://rumble.com/live-hls-dvr/6svohj/playlist.m3u8?level=2
 
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
