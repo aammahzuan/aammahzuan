@@ -1,14 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",
-87yuuu
-https://rumble.com/live-hls-dvr/6sx2mt/playlist.m3u8?level=2
-#EXTINF:-1 tvg-logo="" group-title="LIVE",jpggg
-https://rumble.com/live-hls-dvr/6sx2mt/playlist.m3u8?level=2
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Dortmund https://357bo.sxlingchuangkeji.com/live/60_1750512995.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE",chnnna vnl
-https://rumble.com/live-hls-dvr/6sx2mt/playlist.m3u8?level=2
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",8w7w
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/dgPd6TiK/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",5336
+https://357bo.sxlingchuangkeji.com/live/60_1750512995.m3u8
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
