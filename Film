@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Dortmund https://357bo.sxlingchuangkeji.com/live/60_1750512995.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Bulgaria
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ObIakm3q/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE",ywyw vnl
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ObIakm3q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",5336
 https://357bo.sxlingchuangkeji.com/live/60_1750512995.m3u8
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
