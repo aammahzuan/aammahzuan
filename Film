@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl jepang
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xC2qSlW7/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",yw vnl
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/xC2qSlW7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl Argentina
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fjSkwG3u/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",123 Argentina
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/fjSkwG3u/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
