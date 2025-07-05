@@ -1,6 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",cwc 111https://bf.jabflive.com/live/322663_hd01.m3u8?txSecret=7b051b254e3f2b9e3dad6885ab094bfd&txTime=686879a7
-#EXTINF:-1 tvg-logo="" group-title="LIVE",526 cwc
-https://357bo.sxlingchuangkeji.com/nami/hd-en-6MtMdwaQr8ZBz21H9D.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",indo china
+https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=0c6579aaf5b9f2a285e998dbf1fccde9&txTime=68692eed
+#EXTINF:-1 tvg-logo="" group-title="LIVE",122
+https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=0c6579aaf5b9f2a285e998dbf1fccde9&txTime=68692eed
+#EXTINF:-1 tvg-logo="" group-title="LIVE",indi
+https://bf.jabflive.com/live/5004429_hd01.m3u8?txSecret=0c6579aaf5b9f2a285e998dbf1fccde9&txTime=68692eed
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
