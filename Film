@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", piala presiden
-https://bf.jabflive.com/live/322672_hd01.m3u8?txSecret=816292b9a00e5482e0884dd122e50e15&txTime=686fb61d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",arema
-https://bf.jabflive.com/live/322672_hd01.m3u8?txSecret=816292b9a00e5482e0884dd122e50e15&txTime=686fb61d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",arema 11
-https://bf.jabflive.com/live/322672_hd01.m3u8?txSecret=816292b9a00e5482e0884dd122e50e15&txTime=686fb61d
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Italia https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yEMtAq7q/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yEMtAq7q/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yEMtAq7q/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
