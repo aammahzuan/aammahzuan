@@ -1,8 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n9E3ikFZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",nnvl
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n9E3ikFZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/n9E3ikFZ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",66vnl
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T4Ch0EKS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vvnll
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T4Ch0EKS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",66
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/T4Ch0EKS/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
