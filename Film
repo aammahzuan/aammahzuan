@@ -1,11 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",44 vnl
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uts5S1E9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl 1
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uts5S1E9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",22https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uts5S1E9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",jpng VNL
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KFBSjhzv/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",33https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/KFBSjhzv/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",55
+https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=e572396bb5a0bb5b2210439ba700dc72&txTime=68764fdb
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia
+https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=e572396bb5a0bb5b2210439ba700dc72&txTime=68764fdb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",u23
+https://bf.jabflive.com/live/5004240_hd01.m3u8?txSecret=e572396bb5a0bb5b2210439ba700dc72&txTime=68764fdb
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
