@@ -1,9 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CEwkrUIi/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl Argentina
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CEwkrUIi/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vuDviDK8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",vvnl
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CEwkrUIi/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vuDviDK8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",555
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/vuDviDK8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
