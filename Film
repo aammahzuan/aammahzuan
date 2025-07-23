@@ -1,9 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Malaysia vs Indonesia 
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=e7f4d980865b56e6b6837ab5e1129364&txTime=687e39eb
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=e7f4d980865b56e6b6837ab5e1129364&txTime=687e39eb
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Malaysia
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=e7f4d980865b56e6b6837ab5e1129364&txTime=687e39eb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",12 https://357bo.sxlingchuangkeji.com/live/404_1753262899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal
+https://357bo.sxlingchuangkeji.com/live/404_1753262899.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",milan
+https://357bo.sxlingchuangkeji.com/live/404_1753262899.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
