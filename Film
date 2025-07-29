@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-logo="" group-title="LIVE",final
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",indo vs Vietnam 
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Indosnesia
 https://bf.jllibf.com/live/5004443_hd01.m3u8?txSecret=37a0dcbd1c8f4406a4f8346738a55ff0&txTime=6888c025
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Vietnam 
