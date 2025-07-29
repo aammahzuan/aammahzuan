@@ -1,13 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Barcelona 
-https://bf.jllibf.cc/live/322693_hd01.m3u8?txSecret=5bacda95bf3d204048a61572efc59291&txTime=6885f4fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",223
-https://bf.jllibf.cc/live/322693_hd01.m3u8?txSecret=5bacda95bf3d204048a61572efc59291&txTime=6885f4fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal
-https://bf.jllibf.cc/live/322672_hd01.m3u8?txSecret=689b33ac931a93c276e66c8c994b57df&txTime=6886108f
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Newcastle
-https://bf.jllibf.cc/live/322672_hd01.m3u8?txSecret=689b33ac931a93c276e66c8c994b57df&txTime=6886108f
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1 line
-https://bf.jllibf.cc/live/322693_hd01.m3u8?txSecret=5bacda95bf3d204048a61572efc59291&txTime=6885f4fd
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indosnesia
+https://bf.jllibf.com/live/5004443_hd01.m3u8?txSecret=37a0dcbd1c8f4406a4f8346738a55ff0&txTime=6888c025
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Vietnam 
+https://bf.jllibf.com/live/5004443_hd01.m3u8?txSecret=37a0dcbd1c8f4406a4f8346738a55ff0&txTime=6888c025
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
+https://bf.jllibf.com/live/5004443_hd01.m3u8?txSecret=37a0dcbd1c8f4406a4f8346738a55ff0&txTime=6888c025
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
