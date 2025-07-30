@@ -1,11 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Kuba 
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FYelsSE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Italia 
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FYelsSE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",vnll
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/5FYelsSE/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Ku 
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DvdxK2ri/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",113
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/DvdxK2ri/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 2
