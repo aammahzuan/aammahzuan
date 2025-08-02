@@ -1,9 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Polandia 
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VYin8QCZ/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Polandia Italia 
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bzNi8Gvs/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE",vnl
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VYin8QCZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE", jepang vnl 
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/VYin8QCZ/live.isml/.m3u8
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bzNi8Gvs/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",112
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bzNi8Gvs/live.isml/.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
