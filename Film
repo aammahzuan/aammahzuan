@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",bayern
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2f008349b0431afefb36981187ae04e1&txTime=6894cffb
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1 live
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2f008349b0431afefb36981187ae04e1&txTime=6894cffb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",Ac Milan 
+https://bf.jlbflive.cc/live/322672_hd01.m3u8?txSecret=1dd3d15b9d58619ace0c06f5ef050b9d&txTime=6898a2b4
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea ac Milan 
+https://bf.jlbflive.cc/live/322672_hd01.m3u8?txSecret=1dd3d15b9d58619ace0c06f5ef050b9d&txTime=6898a2b4
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
