@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",Aremaa 1
-https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=dcbfe958e56229156668333ff6476696&txTime=6899bdee
-#EXTINF:-1 tvg-logo="" group-title="LIVE",arema
-https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=dcbfe958e56229156668333ff6476696&txTime=6899bdee
+#EXTINF:-1 tvg-logo="" group-title="LIVE",indooo
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=59a9cd7b9e96019db3f281ad5231469a&txTime=689b362f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=59a9cd7b9e96019db3f281ad5231469a&txTime=689b362f
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
