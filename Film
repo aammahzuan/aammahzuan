@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",Aremaa
-https://bf.jlbflive.cc/live/322729_hd01.m3u8?txSecret=70ade976bf16c382dc9f25fd5f656a38&txTime=68a04dd9
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 1
-https://bf.jlbflive.cc/live/322729_hd01.m3u8?txSecret=70ade976bf16c382dc9f25fd5f656a38&txTime=68a04dd9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",Madura
-https://bf.jlbflive.cc/live/322711_hd01.m3u8?txSecret=8f7d35e5380b1f41a4393b1f8c7517a5&txTime=68a04df9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
-https://bf.jlbflive.cc/live/322711_hd01.m3u8?txSecret=8f7d35e5380b1f41a4393b1f8c7517a5&txTime=68a04df9
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=9cf3f5ff1d9036b1be548fdd5de717de&txTime=68a07bba
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persija 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=9cf3f5ff1d9036b1be548fdd5de717de&txTime=68a07bba
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Newcastle 
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=888f2535b6dc24a93b620500aba5eddb&txTime=68a07ba6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", inggris 
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=888f2535b6dc24a93b620500aba5eddb&txTime=68a07ba6
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
