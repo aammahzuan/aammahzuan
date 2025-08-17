@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
-https://bf.jlbflive.cc/live/5004449_hd01.m3u8?txSecret=d9ffbb773b288e00ba08ad490e2ab2e1&txTime=68a148f6
-#EXTINF:-1 tvg-logo="" group-title="LIVE",ufc
-https://bf.jlbflive.cc/live/5004449_hd01.m3u8?txSecret=d9ffbb773b288e00ba08ad490e2ab2e1&txTime=68a148f6
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live liga Inggris 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2af9fd6c5113936bddcdf4b2834bae80&txTime=68a1d0af
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2af9fd6c5113936bddcdf4b2834bae80&txTime=68a1d0af
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
