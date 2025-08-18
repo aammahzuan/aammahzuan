@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live  Arsenal 
-https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=4b561d9642a94e0b24765c2d9ded9ac9&txTime=68a1f017
-#EXTINF:-1 tvg-logo="" group-title="LIVE",mu vs https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=4b561d9642a94e0b24765c2d9ded9ac9&txTime=68a1f017
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live  super
+https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=92bdf3cfab9d644d5f6b765c50a2070b&txTime=68a2f269
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga bri
+https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=92bdf3cfab9d644d5f6b765c50a2070b&txTime=68a2f269
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
