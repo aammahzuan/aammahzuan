@@ -1,10 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live arema  https://bf.jlbflive.cc/live/322794_hd01.m3u8?txSecret=064ff3a966afe0c86451bce1ec8dd1c3&txTime=68a8293d
-#EXTINF:-1 tvg-logo="" group-title="LIVE", semen Padang bri
-https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=639a8040a68797ca8ed954deac6a3642&txTime=68a8294d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",Arema
-https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=639a8040a68797ca8ed954deac6a3642&txTime=68a8294d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",arema
-https://bf.jlbflive.cc/live/322794_hd01.m3u8?txSecret=064ff3a966afe0c86451bce1ec8dd1c3&txTime=68a8293d
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live liga indo https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=f355f781b0f57afb5de9275cf018946b&txTime=68a859a2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",dewa united bri
+https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=f355f781b0f57afb5de9275cf018946b&txTime=68a859a2
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
