@@ -1,12 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Indonesia 
-https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=ba3021cc6e9fdee1bc8768b015e48acc&txTime=68a9aae0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", final annasr arab
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=66a534b68609f490512310e1515383a7&txTime=68a9aac9
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",final
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=66a534b68609f490512310e1515383a7&txTime=68a9aac9#EXTINF:-1 tvg-logo="" group-title="LIVE", live liga Inggris https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=55bc816871b1b1ec48e7a008f9ef6630&txTime=68a9a4d0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=55bc816871b1b1ec48e7a008f9ef6630&txTime=68a9a4d0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Indonesia BRI 
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=b36494918dfb4d354e4d2ecb5788f94d&txTime=68aacfb6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live 3
+https://bf.jlbflive.cc/live/322711_hd01.m3u8?txSecret=c019cfe7a5a2662e96efbecd1069e773&txTime=68aacfa3
+#EXTINF:-1 tvg-logo="" group-title="LIVE",bri 2
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=b36494918dfb4d354e4d2ecb5788f94d&txTime=68aacfb6
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
