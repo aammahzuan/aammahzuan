@@ -1,6 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Indo
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=0bafe81bb5efe241a5c74dee970c3e61&txTime=68ab0432
-#EXTINF:-1 tvg-logo="" group-title="LIVE",uuhttps://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=0bafe81bb5efe241a5c74dee970c3e61&txTime=68ab0432
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga konoha
+https://bf.jlbflive.cc/live/322582_hd01.m3u8?txSecret=04ae47ec1f02313a6ac3a6de02c18080&txTime=68b2ec48
+#EXTINF:-1 tvg-logo="" group-title="LIVE",chelse
+https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=4122082e842e50e79aad32cbb7ce9e13&txTime=68b2ec35
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 22
+https://bf.jlbflive.cc/live/5004466_hd01.m3u8?txSecret=4122082e842e50e79aad32cbb7ce9e13&txTime=68b2ec35
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
