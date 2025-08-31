@@ -1,7 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga inggris 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=3bd6c7c42f9ef835e7c8c22a322db3ab&txTime=68b3028d
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=3bd6c7c42f9ef835e7c8c22a322db3ab&txTime=68b3028d
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 2
+https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=6e0982767925294a573bd37c1ae392a5&txTime=68b44b67
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=12d640098550c352a49fbf8c73857a6f&txTime=68b44b57
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live 1
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=12d640098550c352a49fbf8c73857a6f&txTime=68b44b57
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
