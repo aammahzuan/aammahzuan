@@ -1,13 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u23
-https://play.live8818.com/live/305_1757417036.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",23u
-https://play.live8818.com/live/305_1757417036.m3u8#EXTINF:-1 tvg-logo="" group-title="LIVE", Korea vs Indonesia 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2c686e3444c804537b3983eb052bbf29&txTime=68c01ac0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia u23
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2c686e3444c804537b3983eb052bbf29&txTime=68c01ac0
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u23 Indonesia 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=2c686e3444c804537b3983eb052bbf29&txTime=68c01ac0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live  timnas Indonesia https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=65af0a6a9b1f6a86a609bf7f4ff959d9&txTime=68bed444
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia liga
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=20285db1f52584022c39c13e5b7eece3&txTime=68c2b4d8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",lifa BRI 
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=20285db1f52584022c39c13e5b7eece3&txTime=68c2b4d8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
