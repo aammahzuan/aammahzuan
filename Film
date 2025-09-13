@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 1
-https://bf.jlbflive.cc/live/322675_hd01.m3u8?txSecret=c64a03090865be64efa7b04b74dcd41e&txTime=68c5504c
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 2
-https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=6dba06b47cf8248a88815fb9091c2b92&txTime=68c5503d
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 
-https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=6dba06b47cf8248a88815fb9091c2b92&txTime=68c5503d
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga spanyol 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=39829286ccae976bd7b6a7c42e940e6c&txTime=68c57baf
+#EXTINF:-1 tvg-logo="" group-title="LIVE", real Madrid 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=39829286ccae976bd7b6a7c42e940e6c&txTime=68c57baf
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
