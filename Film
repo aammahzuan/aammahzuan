@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Konoha https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=48a7320fc51fb9f273bb49ff06b2102d&txTime=68c6a8a2
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=48a7320fc51fb9f273bb49ff06b2102d&txTime=68c6a8a2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga11 https://bf.jlbflive.cc/live/322697_hd01.m3u8?txSecret=4a09dbf57c4568cea707da3fa47fc51f&txTime=68c6bf40
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/322697_hd01.m3u8?txSecret=4a09dbf57c4568cea707da3fa47fc51f&txTime=68c6bf40
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
