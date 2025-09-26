@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Indonesia https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=093c1e1739901040d5a8c3ed8fa9e569&txTime=68d10abb
-#EXTINF:-1 tvg-logo="" group-title="LIVE",Arema vs Persib Bandung 
-https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=093c1e1739901040d5a8c3ed8fa9e569&txTime=68d10abb
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=093c1e1739901040d5a8c3ed8fa9e569&txTime=68d10abb
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Indonesia https://bf.jlbflive.cc/live/5004542_hd01.m3u8?txSecret=08f3cb0868345a9102cab2586c9bddce&txTime=68d669f2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",ligaa 11
+https://bf.jlbflive.cc/live/5004542_hd01.m3u8?txSecret=08f3cb0868345a9102cab2586c9bddce&txTime=68d669f2
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
