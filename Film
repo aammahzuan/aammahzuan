@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga inggris https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=d44b634375e0bedf27bbab52452914e0&txTime=68d7c76a
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga inggris 1
-https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=d44b634375e0bedf27bbab52452914e0&txTime=68d7c76a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga spanyol https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=229f1c7ca2409906bc0f47a171037670&txTime=68d7ee2f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",real Madrid 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=229f1c7ca2409906bc0f47a171037670&txTime=68d7ee2f
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",channel 1
