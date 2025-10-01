@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga 1 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=8da2767417ef92e27deda75220cd33aa&txTime=68d91ee0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persija 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=8da2767417ef92e27deda75220cd33aa&txTime=68d91ee0
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 111
+https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=9e2f2a7fc45ba097c829a70a82e27a3b&txTime=68dd266a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
+https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=9e2f2a7fc45ba097c829a70a82e27a3b&txTime=68dd266a
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
