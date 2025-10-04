@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", tothenham
-https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=9e2f2a7fc45ba097c829a70a82e27a3b&txTime=68dd266a
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
-https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=9e2f2a7fc45ba097c829a70a82e27a3b&txTime=68dd266a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal https://bf.jlbflive.cc/live/322667_hd01.m3u8?txSecret=877cb396982029cea9897e03ffeb5c10&txTime=68e1279b
+#EXTINF:-1 tvg-logo="" group-title="LIVE",mu liga Inggris 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=60f2b4ff02d54d66d7f111caf14ff587&txTime=68e12775
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
