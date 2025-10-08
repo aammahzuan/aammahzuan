@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Spanyol https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=11f570bbcdf1f69799e464ae7095f9e2&txTime=68e27d7b
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Barcelona 
-https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=11f570bbcdf1f69799e464ae7095f9e2&txTime=68e27d7b
+#EXTINF:-1 tvg-logo="" group-title="LIVE",Arab Saudi vs Indonesia https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=21281b2cba42897d950c89090d975a6c&txTime=68e6951f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 
+https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=21281b2cba42897d950c89090d975a6c&txTime=68e6951f
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
