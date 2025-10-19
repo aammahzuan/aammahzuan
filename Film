@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=103383eb58fbc2be9273dbb9ff1ea545&txTime=68f3bc78
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=103383eb58fbc2be9273dbb9ff1ea545&txTime=68f3bc78
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Italia 
+https://bf.jlbflive.cc/live/5004613_hd01.m3u8?txSecret=b4e0c9944cd6da9507385ff8858322bc&txTime=68f4c676
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Juventus 
+https://bf.jlbflive.cc/live/5004613_hd01.m3u8?txSecret=b4e0c9944cd6da9507385ff8858322bc&txTime=68f4c676
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
