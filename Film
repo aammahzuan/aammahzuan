@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1 Konoha https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=a5e5a4c858f51930a19fa291d01debf8&txTime=68fb4486
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
-https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=a5e5a4c858f51930a19fa291d01debf8&txTime=68fb4486
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Madura 
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=6d6265fe3677bb3408e365f3f07f9d22&txTime=68fb6f5a
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=6d6265fe3677bb3408e365f3f07f9d22&txTime=68fb6f5a
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
