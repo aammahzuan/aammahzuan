@@ -1,9 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", badminton 
-https://bf.jlbflive.cc/live/5004577_hd01.m3u8?txSecret=6b3bce657aab219bc783c2d8753312d8&txTime=68f4fea3
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=25b195dd413eee854304eb9c5f8c856d&txTime=68f4fe8f
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=25b195dd413eee854304eb9c5f8c856d&txTime=68f4fe8f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1 Konoha https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=a5e5a4c858f51930a19fa291d01debf8&txTime=68fb4486
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=a5e5a4c858f51930a19fa291d01debf8&txTime=68fb4486
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
