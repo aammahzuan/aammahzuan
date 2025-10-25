@@ -2,6 +2,8 @@
 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=6d6265fe3677bb3408e365f3f07f9d22&txTime=68fb6f5a
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=6d6265fe3677bb3408e365f3f07f9d22&txTime=68fb6f5a
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD 
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels", MOJI TV 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
