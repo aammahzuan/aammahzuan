@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",bali united https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=aabbc402d570ac1576bf314b334b7c36&txTime=68fcb7a5
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=aabbc402d570ac1576bf314b334b7c36&txTime=68fcb7a5
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga inggris https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=fb6bd8e2e4253c18e5f43827452ceafc&txTime=68fcd7b0
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=fb6bd8e2e4253c18e5f43827452ceafc&txTime=68fcd7b0
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
