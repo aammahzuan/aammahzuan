@@ -2,7 +2,6 @@
 https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=9dcb2c3f0f97e9bb7d662bfd7a9cb49e&txTime=68fc2154
 #EXTINF:-1 tvg-logo="" group-title="LIVE",messi
 https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=9dcb2c3f0f97e9bb7d662bfd7a9cb49e&txTime=68fc2154
-#EXTINF:-1 tvg-id="Kompas TV -  tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png"https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",kompas http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
