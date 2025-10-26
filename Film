@@ -1,10 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",mu
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=af62675120fb3b396f42733a2ee707fe&txTime=68fcfe40
-#EXTINF:-1 tvg-logo="" group-title="LIVE", inggris 
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=af62675120fb3b396f42733a2ee707fe&txTime=68fcfe40#EXTINF:-1 tvg-logo="" group-title="LIVE", ligaa Italia 
-https://bf.jlbflive.cc/live/5004660_hd01.m3u8?txSecret=23856da21bd04382a37f89816972843e&txTime=68fcf1ce
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Napoli 
-https://bf.jlbflive.cc/live/5004660_hd01.m3u8?txSecret=23856da21bd04382a37f89816972843e&txTime=68fcf1ce
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
+https://bf.jlbflive.cc/live/5004640_hd01.m3u8?txSecret=56a1819ce6d88931864331c5457dc369&txTime=68fe2531
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
+https://bf.jlbflive.cc/live/5004640_hd01.m3u8?txSecret=56a1819ce6d88931864331c5457dc369&txTime=68fe2531
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
+https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=e935e0e2cc549e5fe44d7c1aff77c250&txTime=68fe2520
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
