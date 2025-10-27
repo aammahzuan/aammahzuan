@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",elclasico
-https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=2f5ab562453e0b9be5e9c5fa2b442b36&txTime=68ff3ff7
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=2f5ab562453e0b9be5e9c5fa2b442b36&txTime=68ff3ff7
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga1
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=c48d88eecb206ab13f4f55ed8d296816&txTime=68ff64e9
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=c48d88eecb206ab13f4f55ed8d296816&txTime=68ff64e9
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
