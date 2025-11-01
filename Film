@@ -3,6 +3,7 @@
 https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=fae9cde7da3fbe9fcdc528ca831a6398&txTime=69061e17
 #EXTINF:-1 tvg-logo="" group-title="LIVE",atm
 https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=fae9cde7da3fbe9fcdc528ca831a6398&txTime=69061e17
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal https://bf.jlbflive.cc/live/5004374_hd01.m3u8?txSecret=af3e64976fae9e28c247408134b8d579&txTime=690621f8
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=048dea59f68bc9da2482d35b6cf66536&txTime=69061dfa
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
