@@ -1,4 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Italia https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=8e4915027690fcb53af0503984e71b83&txTime=69073d08
+#EXTINF:-1 tvg-logo="" group-title="LIVE",lig1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=d87e308fa33da3375e3dbbc6f59f8c06&txTime=690747d7
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=d87e308fa33da3375e3dbbc6f59f8c06&txTime=690747d7#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Italia https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=8e4915027690fcb53af0503984e71b83&txTime=69073d08
 #EXTINF:-1 tvg-logo="" group-title="LIVE",iner Milan 
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=8e4915027690fcb53af0503984e71b83&txTime=69073d08
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
