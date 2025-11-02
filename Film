@@ -1,4 +1,8 @@
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live 2https://bf.jlbflive.cc/live/5004600_hd01.m3u8?txSecret=26453b5983a990ec6a476e839ffcc73e&txTime=69071c16
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga1
+https://bf.jlbflive.cc/live/5004600_hd01.m3u8?txSecret=26453b5983a990ec6a476e839ffcc73e&txTime=69071c16
+#EXTINF:-1 tvg-logo="" group-title="LIVE",lig 1 live 
+https://bf.jlbflive.cc/live/322663_hd01.m3u8?txSecret=255571f79b223d8d2f0e0e16644cad1d&txTime=69071bf7
 #EXTINF:-1 tvg-logo="" group-title="LIVE", 6
 https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=dad987699897ed290d9cf64e3655a0f3&txTime=6906698f
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
