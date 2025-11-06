@@ -1,10 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",4
-https://bf.jlbflive.cc/live/322571_hd01.m3u8?txSecret=e1ef19ed5d41a3e84cfefaa0b76913a3&txTime=690a5ce5
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Champions 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=09502cddb080df6bf9c11cb20b34bda5&txTime=690a5cca
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=e47f6b59bc97565b58583ddd3b103cf1&txTime=690a5c92
-#EXTINF:-1 tvg-logo="" group-title="LIVE",2https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=e47f6b59bc97565b58583ddd3b103cf1&txTime=690a5c92
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=90a68da0c181f49b578ca3bf43b96c06&txTime=690ca453
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=90a68da0c181f49b578ca3bf43b96c06&txTime=690ca453
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
