@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=086392e1ec0253b9ac28912763217816&txTime=6910bbcd#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=ae0838644cced455d4c40316f3318d97&txTime=6910b13b
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=086392e1ec0253b9ac28912763217816&txTime=6910bbcd
 #EXTINF:-1 tvg-logo="" group-title="LIVE",real Madrid 
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=9e321edf19a3d094aa19a60ee18b0865&txTime=6910b121
 #EXTINF:-1 tvg-logo="" group-title="LIVE", spanyol 
