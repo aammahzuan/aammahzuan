@@ -2,6 +2,8 @@
 https://bf.jlbflive.cc/live/5004443_hd01.m3u8?txSecret=26e5274cbb6fca3425615c5a18c81cd9&txTime=69163672
 #EXTINF:-1 tvg-logo="" group-title="LIVE",2
 https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=c9d605113c08a43cab09ceca308fae86&txTime=6916364f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Portugal 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=daf92de6d1a728a6aba039c23c750f8c&txTime=6916374e
 #EXTINF:-1 tvg-logo="" group-title="LIVE",3
 https://bf.jlbflive.cc/live/322711_hd01.m3u8?txSecret=15905f985316bd417db88ffbb9253c01&txTime=69163640
 #EXTINF:-1 tvg-logo="" group-title="LIVE",4https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=a85cf5451f286b22836b04378c1de1cf&txTime=69163632
