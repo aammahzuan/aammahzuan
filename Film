@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",livee q
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=b29ef3cc39ff2e113b6b62ec7873c535&txTime=691c6853
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=b29ef3cc39ff2e113b6b62ec7873c535&txTime=691c6853
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee
+https://bf.jlbflive.cc/live/5004438_hd01.m3u8?txSecret=0ffc6b55b616f46e6e87c4006e0300c8&txTime=691ed374
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persijap 
+https://bf.jlbflive.cc/live/5004438_hd01.m3u8?txSecret=0ffc6b55b616f46e6e87c4006e0300c8&txTime=691ed374
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
