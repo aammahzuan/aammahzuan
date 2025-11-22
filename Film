@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1https://bf.jlbflive.cc/live/5004438_hd01.m3u8?txSecret=6521218924fd594b8e966dd98e918602&txTime=69217252
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1 Persebaya arema
-https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=b1ead8e7a69aefab7042a8d7c5469f44&txTime=69217241
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
-https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=b1ead8e7a69aefab7042a8d7c5469f44&txTime=69217241
+#EXTINF:-1 tvg-logo="" group-title="LIVE", 11 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=2eb4a7706852a94b60ac35ac9b7d1221&txTime=6921a19d
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Madura united 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=2eb4a7706852a94b60ac35ac9b7d1221&txTime=6921a19d
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
