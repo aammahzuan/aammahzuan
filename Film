@@ -2,6 +2,10 @@
 https://bf.jlbflive.cc/live/322812_hd01.m3u8?txSecret=0cad49dadae671e865e3200516b8ba5c&txTime=6921cb05
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Dortmund 
 https://bf.jlbflive.cc/live/5004716_hd01.m3u8?txSecret=deb2b54869ad04ad3931368fec94ec8a&txTime=6921caf2
+#EXTINF:-1 tvg-logo="" group-title="LIVE",city
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=90428ba713685ef54de645b64985558f&txTime=6921f358
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga city
+https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=90428ba713685ef54de645b64985558f&txTime=6921f358
 #EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=6ae35920f382ffa7ca90dc3b74178b47&txTime=6921ad0a
 #EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
