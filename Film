@@ -1,19 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Germany 
-https://bf.jlbflive.cc/live/322812_hd01.m3u8?txSecret=0cad49dadae671e865e3200516b8ba5c&txTime=6921cb05
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Dortmund 
-https://bf.jlbflive.cc/live/5004716_hd01.m3u8?txSecret=deb2b54869ad04ad3931368fec94ec8a&txTime=6921caf2
-#EXTINF:-1 tvg-logo="" group-title="LIVE",city
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=90428ba713685ef54de645b64985558f&txTime=6921f358
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga city
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=90428ba713685ef54de645b64985558f&txTime=6921f358
-#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=6ae35920f382ffa7ca90dc3b74178b47&txTime=6921ad0a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=6ae35920f382ffa7ca90dc3b74178b47&txTime=6921ad0a#EXTINF:-1 tvg-logo="" group-title="LIVE", 11 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=2eb4a7706852a94b60ac35ac9b7d1221&txTime=6921a19d
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 1
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=6ae35920f382ffa7ca90dc3b74178b47&txTime=6921ad0a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Madura united 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=2eb4a7706852a94b60ac35ac9b7d1221&txTime=6921a19d
+#EXTINF:-1 tvg-logo="" group-title="LIVE", 2 https://bf.jlbflive.cc/live/5004735_hd01.m3u8?txSecret=391bbb35ab805157ffc156ddb7d6d5d2&txTime=6922c269
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jlbflive.cc/live/5004735_hd01.m3u8?txSecret=391bbb35ab805157ffc156ddb7d6d5d2&txTime=6922c269
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
+https://bf.jlbflive.cc/live/322708_hd01.m3u8?txSecret=b962db6542c6fbc487070658c6840f84&txTime=6922c250
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
