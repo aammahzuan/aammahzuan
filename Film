@@ -1,9 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=60ab42c012a03eea2958ae86572dcfdb&txTime=69233100
-#EXTINF:-1 tvg-logo="" group-title="LIVE",ac Mila https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=cd0a0b0ab39b6e7ad9241ef0455ab013&txTime=69236918
-#EXTINF:-1 tvg-logo="" group-title="LIVE",milan
-https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=cd0a0b0ab39b6e7ad9241ef0455ab013&txTime=69236918
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=60ab42c012a03eea2958ae86572dcfdb&txTime=69233100
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga 1 https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=4122cf88b1da9d48bb8dbf628c16c875&txTime=692809c4
+#EXTINF:-1 tvg-logo="" group-title="LIVE", BRI 
+https://bf.jlbflive.cc/live/322707_hd01.m3u8?txSecret=4122cf88b1da9d48bb8dbf628c16c875&txTime=692809c4
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
