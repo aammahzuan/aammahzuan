@@ -1,4 +1,8 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",qq https://bf.jlbflive.cc/live/5004749_hd01.m3u8?txSecret=4ecd48c72ddb8726b1e30dd82e7c3ba6&txTime=692b05cd
+#EXTINF:-1 tvg-logo="" group-title="LIVE", MC 
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=256367c2796b43b9c7be46843032ad7d&txTime=692b0aa2
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Barcelona 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=0ba19b1cebb16e48adbcfd019957a487&txTime=692b0a91
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Bayer Munchen 
 https://bf.jlbflive.cc/live/5004749_hd01.m3u8?txSecret=4ecd48c72ddb8726b1e30dd82e7c3ba6&txTime=692b05cd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
