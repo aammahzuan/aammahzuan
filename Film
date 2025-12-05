@@ -1,12 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris https://bf.jlbflive.cc/live/5004748_hd01.m3u8?txSecret=3caea4256e789bb2e4180318ad0849d2&txTime=692c3b4d
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
-https://bf.jlbflive.cc/live/5004748_hd01.m3u8?txSecret=3caea4256e789bb2e4180318ad0849d2&txTime=692c3b4d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=186585818d3f84678f8e68bfb469c5a3&txTime=692c3b3a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", hhh
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=5c810af3d16e858f786c7400020632cf&txTime=692c8316
-#EXTINF:-1 tvg-logo="" group-title="LIVE",ttt
-https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=5c810af3d16e858f786c7400020632cf&txTime=692c8316
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1 https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=a7d60b8fa7f10dbb8c58ff554bd00225&txTime=6932c6f9
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib Bandung 
+https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=a7d60b8fa7f10dbb8c58ff554bd00225&txTime=6932c6f9
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
