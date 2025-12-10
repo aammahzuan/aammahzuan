@@ -1,12 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia u22 https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=045b02d23341d7bba3a90d527f929a21&txTime=6936b2c9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u22
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=045b02d23341d7bba3a90d527f929a21&txTime=6936b2c9
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LIVE 1
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=045b02d23341d7bba3a90d527f929a21&txTime=6936b2c9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",jek
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=045b02d23341d7bba3a90d527f929a21&txTime=6936b2c9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u22 Indonesia 
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=045b02d23341d7bba3a90d527f929a21&txTime=6936b2c9
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1 https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4f3dcbf5a67e716e0220c52f0936b329&txTime=69396757
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4f3dcbf5a67e716e0220c52f0936b329&txTime=69396757
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
