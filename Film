@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",segame https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=e71fe965e12e5614662d91c99cf95bb1&txTime=693bf015
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia u22
-https://bf.jlbflive.cc/live/5004423_hd01.m3u8?txSecret=e71fe965e12e5614662d91c99cf95bb1&txTime=693bf015
+#EXTINF:-1 tvg-logo="" group-title="LIVE",laliga https://bf.jlbflive.cc/live/5004748_hd01.m3u8?txSecret=067ad9e5b2ee5012251cf2df545af0d7&txTime=693d5f79
+#EXTINF:-1 tvg-logo="" group-title="LIVE", ATM 
+https://bf.jlbflive.cc/live/5004748_hd01.m3u8?txSecret=067ad9e5b2ee5012251cf2df545af0d7&txTime=693d5f79
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
