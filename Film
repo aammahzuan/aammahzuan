@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", badminton championship https://bf.shandongjncz.com/live/sd-24-5007336.m3u8?txSecret=6429fbf3ef7108a5f5e1d05fe809bf10&txTime=6944c403
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 
-https://bf.shandongjncz.com/live/sd-24-5007337.m3u8?txSecret=9ebb6063e583fa7504f28c076509c96c&txTime=6944c3f3
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1https://bf.shandongjncz.com/live/sd-24-5007336.m3u8?txSecret=6429fbf3ef7108a5f5e1d05fe809bf10&txTime=6944c403#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee voli https://bf.jlbflive.cc/live/322647_hd01.m3u8?txSecret=b2a7ca88a0082a509d6ca46bd4e122e0&txTime=69453600
+#EXTINF:-1 tvg-logo="" group-title="LIVE",https://bf.jlbflive.cc/live/322647_hd01.m3u8?txSecret=b2a7ca88a0082a509d6ca46bd4e122e0&txTime=69453600
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
