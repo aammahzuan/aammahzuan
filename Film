@@ -3,6 +3,10 @@
 https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=0206abfec912e0707dfc00abef87dce3&txTime=69542f2a
 #EXTINF:-1 tvg-logo="" group-title="LIVE",2
 https://bf.jlbflive.cc/live/322728_hd01.m3u8?txSecret=afbe81afe6fe0540ca5f87662f23954d&txTime=69542f0e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",33
+https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=2161c004a234b108bf4b29befd70d262&txTime=69543107
+#EXTINF:-1 tvg-logo="" group-title="LIVE",333
+https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=2161c004a234b108bf4b29befd70d262&txTime=69543107
 #EXTINF:-1 tvg-logo="" group-title="LIVE",22
 https://bf.jlbflive.cc/live/322728_hd01.m3u8?txSecret=afbe81afe6fe0540ca5f87662f23954d&txTime=69542f0e
 #EXTINF:-1 tvg-logo="" group-title="LIVE",11
