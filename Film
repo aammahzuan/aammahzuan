@@ -2,6 +2,8 @@
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=5ee4287efd8eb3b0d325537fb4d500a4&txTime=69590d32
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Aston villa 
 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=5ee4287efd8eb3b0d325537fb4d500a4&txTime=69590d32
+#EXTINF:-1 tvg-logo="" group-title="LIVE", inggris 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=5ee4287efd8eb3b0d325537fb4d500a4&txTime=69590d32
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
