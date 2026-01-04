@@ -1,10 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liveee 1https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e8e536007eb57c12c4b84c3a5501422&txTime=695a635a
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e8e536007eb57c12c4b84c3a5501422&txTime=695a635a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=4c977efca0853c3cc6b47e48929c9c8d&txTime=695a7916
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 2
-https://bf.jlbflive.cc/live/5004767_hd01.m3u8?txSecret=4c977efca0853c3cc6b47e48929c9c8d&txTime=695a7916
+#EXTINF:-1 tvg-logo="" group-title="LIVE",11 https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
+#EXTINF:-1 tvg-logo="" group-title="LIVE",city
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1 
+https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
