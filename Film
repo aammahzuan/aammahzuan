@@ -2,6 +2,8 @@
 https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=a7100b14fd4457b914d787744ccdbc1c&txTime=6960115c
 #EXTINF:-1 tvg-logo="" group-title="LIVE",real Madrid 
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
+#EXTINF:-1 tvg-logo="" group-title="LIVE",rm3
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
 #EXTINF:-1 tvg-logo="" group-title="LIVE",rm1
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
 #EXTINF:-1 tvg-logo="" group-title="LIVE",lvrp
