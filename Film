@@ -1,4 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11 https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=a7100b14fd4457b914d787744ccdbc1c&txTime=6960115c
+#EXTINF:-1 tvg-logo="" group-title="LIVE",lvrp
+https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=a7100b14fd4457b914d787744ccdbc1c&txTime=6960115c
+&txTime=695aa675
 #EXTINF:-1 tvg-logo="" group-title="LIVE",city
 https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
 #EXTINF:-1 tvg-logo="" group-title="LIVE",live 1 
