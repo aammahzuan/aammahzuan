@@ -1,22 +1,11 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=a7100b14fd4457b914d787744ccdbc1c&txTime=6960115c
-#EXTINF:-1 tvg-logo="" group-title="LIVE",555
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",666
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",real Madrid 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",rm3
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",rm1
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=9cdb70847ece49a0b070d4dd03b3c67f&txTime=696013fd
-#EXTINF:-1 tvg-logo="" group-title="LIVE",lvrp
-https://bf.jlbflive.cc/live/5004447_hd01.m3u8?txSecret=a7100b14fd4457b914d787744ccdbc1c&txTime=6960115c
-&txTime=695aa675
-#EXTINF:-1 tvg-logo="" group-title="LIVE",city
-https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1 
-https://bf.jlbflive.cc/live/5004429_hd01.m3u8?txSecret=458c1e5b4871961e786acdf50680f7b1&txTime=695aa675
+#EXTINF:-1 tvg-logo="" group-title="LIVE",acmiln
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=347f082c4b5aaeb901e1e4405e027770&txTime=6963b542
+#EXTINF:-1 tvg-logo="" group-title="LIVE",milan
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=347f082c4b5aaeb901e1e4405e027770&txTime=6963b542
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=39968ccc9fb26328d17b5baa9f19b434&txTime=6963a90e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",11
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=39968ccc9fb26328d17b5baa9f19b434&txTime=6963a90e
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
 https://www.bevy.be/bevyfiles/indonesia.xml group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
