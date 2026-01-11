@@ -1,4 +1,8 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",live 1 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=513afbdad21b65d8a262e54546eb2e6c&txTime=6963e4ac
+#EXTINF:-1 tvg-logo="" group-title="LIVE", inter Milan 
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=459168bcfea6a971c76abc6460af87c9&txTime=6963fbb4
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter
+https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=459168bcfea6a971c76abc6460af87c9&txTime=6963fbb4
 #EXTINF:-1 tvg-logo="" group-title="LIVE",elclasico
 https://bf.jlbflive.cc/live/322698_hd01.m3u8?txSecret=513afbdad21b65d8a262e54546eb2e6c&txTime=6963e4ac
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png"
