@@ -2,6 +2,10 @@
 https://bf.jlbflive.cc/live/5004758_hd01.m3u8?txSecret=d524449a1592cee90756fa3d85d28826&txTime=696b716d
 #EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
 https://bf.jlbflive.cc/live/5004758_hd01.m3u8?txSecret=d524449a1592cee90756fa3d85d28826&txTime=696b716d
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter Milan 
+https://bf.jlbflive.cc/live/322818_hd01.m3u8?txSecret=1926b6721b3a4930fabd4dfd7aebb3e9&txTime=696b8899
+#EXTINF:-1 tvg-logo="" group-title="LIVE", inter 
+https://bf.jlbflive.cc/live/322818_hd01.m3u8?txSecret=1926b6721b3a4930fabd4dfd7aebb3e9&txTime=696b8899
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
