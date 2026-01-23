@@ -1,10 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", arsenl https://bf.jlbflive.cc/live/5004971_hd01.m3u8?txSecret=6451238e6b1b93b5590c55969b9abedd&txTime=696fd1d7
-#EXTINF:-1 tvg-logo="" group-title="LIVE", inter Milan 
-https://bf.jlbflive.cc/live/5004971_hd01.m3u8?txSecret=6451238e6b1b93b5590c55969b9abedd&txTime=696fd1d7
-#EXTINF:-1 tvg-logo="" group-title="LIVE",RM 
-https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=09ca97d85c946605d759d0920fcac13d&txTime=696fd2c6
-#EXTINF:-1 tvg-logo="" group-title="LIVE",real Madrid 
-https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=09ca97d85c946605d759d0920fcac13d&txTime=696fd2c6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Konoha https://bf.jlbflive.cc/live/5005022_hd01.m3u8?txSecret=48b4027604b1705c9c2423b1348daefd&txTime=69733c1f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
+https://bf.jlbflive.cc/live/5005022_hd01.m3u8?txSecret=48b4027604b1705c9c2423b1348daefd&txTime=69733c1f
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
