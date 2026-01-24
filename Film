@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Konoha https://bf.jlbflive.cc/live/5005022_hd01.m3u8?txSecret=48b4027604b1705c9c2423b1348daefd&txTime=69733c1f
-#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
-https://bf.jlbflive.cc/live/5005022_hd01.m3u8?txSecret=48b4027604b1705c9c2423b1348daefd&txTime=69733c1f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live 1 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=2aefbdc34b3cb80cf9292711cd8ea33a&txTime=6974dce9
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=2aefbdc34b3cb80cf9292711cd8ea33a&txTime=6974dce9
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
