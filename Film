@@ -1,6 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 1 https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=2aefbdc34b3cb80cf9292711cd8ea33a&txTime=6974dce9
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=2aefbdc34b3cb80cf9292711cd8ea33a&txTime=6974dce9
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
+https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=1213596be930cf7eceb6ac0891654dae&txTime=697619af
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1
+https://bf.jlbflive.cc/live/322713_hd01.m3u8?txSecret=1213596be930cf7eceb6ac0891654dae&txTime=697619af
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
+https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=e103d6d0a15bad40d7535f977d1a4aae&txTime=6976164a
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
