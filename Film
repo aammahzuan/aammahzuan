@@ -1,4 +1,8 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE", BRI https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=e15d5929f9ec75dad1388d1e6d2be9e0&txTime=697f4d49
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Aston villa 
+https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecret=44fe2e9152f2d9e289a60e0afc0b7a56&txTime=697f51e0
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=75dd81142d03bcfa68c0d37bdc8980ae&txTime=697f5304
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
 https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=e15d5929f9ec75dad1388d1e6d2be9e0&txTime=697f4d49
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
