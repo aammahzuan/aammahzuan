@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=60668f15844a652bb2b951410f7429e2&txTime=697e0e92
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=60668f15844a652bb2b951410f7429e2&txTime=697e0e92
+#EXTINF:-1 tvg-logo="" group-title="LIVE",11 https://bf.jlbflive.cc/live/322675_hd01.m3u8?txSecret=441602c17a65aab0bbae1e13e22be865&txTime=697f18ab
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liga bri
+https://bf.jlbflive.cc/live/322675_hd01.m3u8?txSecret=441602c17a65aab0bbae1e13e22be865&txTime=697f18ab
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
