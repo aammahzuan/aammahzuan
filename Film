@@ -1,13 +1,11 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", BRI https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=e15d5929f9ec75dad1388d1e6d2be9e0&txTime=697f4d49
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=94c02e8bf260d7d94181ae578d9259e6&txTime=69825828
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=94c02e8bf260d7d94181ae578d9259e6&txTime=69825828
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Aston villa 
-https://bf.jlbflive.cc/live/5005031_hd01.m3u8?txSecret=44fe2e9152f2d9e289a60e0afc0b7a56&txTime=697f51e0
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=75dd81142d03bcfa68c0d37bdc8980ae&txTime=697f5304
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
-https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=e15d5929f9ec75dad1388d1e6d2be9e0&txTime=697f4d49
+#EXTINF:-1 tvg-logo="" group-title="LIVE", intern
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=077fc2a10e08c8bb90be08ad4c1cd228&txTime=69839f27
+#EXTINF:-1 tvg-logo="" group-title="LIVE",interr2
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=077fc2a10e08c8bb90be08ad4c1cd228&txTime=69839f27
+#EXTINF:-1 tvg-logo="" group-title="LIVE", MC 
+https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=d5bfb22597f0338d6611bfb21de71771&txTime=69839d20
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
+https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=d5bfb22597f0338d6611bfb21de71771&txTime=69839d20
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
