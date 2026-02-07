@@ -7,21 +7,14 @@ https://bf.jlbflive.cc/live/322673_hd01.m3u8?txSecret=2e6ed7fe4d5ef78981e84d0aeb
 https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=707463297464888c564b68dcb2836d1b&txTime=69874b6f
 #EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
 https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=707463297464888c564b68dcb2836d1b&txTime=69874b6f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
+https://bf.jlbflive.cc/live/5005007_hd01.m3u8?txSecret=f6b65dee6422da9f6ae6518a1a5e3c45&txTime=698752f2
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee 
+https://bf.jlbflive.cc/live/5005007_hd01.m3u8?txSecret=f6b65dee6422da9f6ae6518a1a5e3c45&txTime=698752f2
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE", intern
-https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=077fc2a10e08c8bb90be08ad4c1cd228&txTime=69839f27
-#EXTINF:-1 tvg-logo="" group-title="LIVE",lyonn
-https://bf.jlbflive.cc/live/5005037_hd01.m3u8?txSecret=e23f7c284d8689e4ceabbe1ba83472a4&txTime=6983a5c0
-#EXTINF:-1 tvg-logo="" group-title="LIVE",lynn2
-https://bf.jlbflive.cc/live/5005037_hd01.m3u8?txSecret=e23f7c284d8689e4ceabbe1ba83472a4&txTime=6983a5c0
-#EXTINF:-1 tvg-logo="" group-title="LIVE",interr2
-https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=077fc2a10e08c8bb90be08ad4c1cd228&txTime=69839f27
-#EXTINF:-1 tvg-logo="" group-title="LIVE", MC 
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=d5bfb22597f0338d6611bfb21de71771&txTime=69839d20
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=d5bfb22597f0338d6611bfb21de71771&txTime=69839d20
+
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
