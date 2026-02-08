@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Arema https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=11f5c005838a7d30e3e618a346b0de54&txTime=69887408
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris city Liverpool 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=11f5c005838a7d30e3e618a346b0de54&txTime=69887408
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
 
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
