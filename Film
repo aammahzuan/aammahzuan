@@ -3,6 +3,10 @@
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", inter Milan 
+https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=12a122eb6951573936a7a91802e30380&txTime=6988b2b1
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1 inter 
+https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=12a122eb6951573936a7a91802e30380&txTime=6988b2b1
 
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
