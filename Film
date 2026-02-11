@@ -1,4 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arema https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=11f5c005838a7d30e3e618a346b0de54&txTime=69887408
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE",u17 https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=207d26ac558aa1dff616e2ac10b9c1df&txTime=698c6b97
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
+https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=f4a769844887149bb13b63f597f2ae3c&txTime=698c6c50
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib Bandung 
+https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=f4a769844887149bb13b63f597f2ae3c&txTime=698c6c50#EXTINF:-1 tvg-logo="" group-title="LIVE", Arema https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=11f5c005838a7d30e3e618a346b0de54&txTime=69887408
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris city Liverpool 
 https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
