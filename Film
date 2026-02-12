@@ -1,17 +1,11 @@
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u17 https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=207d26ac558aa1dff616e2ac10b9c1df&txTime=698c6b97
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=f4a769844887149bb13b63f597f2ae3c&txTime=698c6c50
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib Bandung 
-https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=f4a769844887149bb13b63f597f2ae3c&txTime=698c6c50#EXTINF:-1 tvg-logo="" group-title="LIVE", Arema https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=11f5c005838a7d30e3e618a346b0de54&txTime=69887408
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris city Liverpool 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=5708081a469f5061342a860655210caa&txTime=6988ba5a
-#EXTINF:-1 tvg-logo="" group-title="LIVE", inter Milan 
-https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=12a122eb6951573936a7a91802e30380&txTime=6988b2b1
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1 inter 
-https://bf.jlbflive.cc/live/5004994_hd01.m3u8?txSecret=12a122eb6951573936a7a91802e30380&txTime=6988b2b1
+#EXTINF:-1 tvg-logo="" group-title="LIVE", sepakbola 2
+https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=05e685c787946a92406bf1d6159ce04f&txTime=698e0367
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
+https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=05e685c787946a92406bf1d6159ce04f&txTime=698e0367
+#EXTINF:-1 tvg-logo="" group-title="LIVE", sepakbola 1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=69aca97edde809de899ef44e29777823&txTime=698e05ee
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=69aca97edde809de899ef44e29777823&txTime=698e05ee
 
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
