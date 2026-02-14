@@ -1,12 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", sepakbola 2
-https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=05e685c787946a92406bf1d6159ce04f&txTime=698e0367
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
-https://bf.jlbflive.cc/live/5004993_hd01.m3u8?txSecret=05e685c787946a92406bf1d6159ce04f&txTime=698e0367
-#EXTINF:-1 tvg-logo="" group-title="LIVE", sepakbola 1
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=69aca97edde809de899ef44e29777823&txTime=698e05ee
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=69aca97edde809de899ef44e29777823&txTime=698e05ee
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Konoha https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=379f2d918231ee7c1e0531e02ecbd2c3&txTime=699065b6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=379f2d918231ee7c1e0531e02ecbd2c3&txTime=699065b6
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
