@@ -1,7 +1,11 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Konoha https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=379f2d918231ee7c1e0531e02ecbd2c3&txTime=699065b6
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persebaya 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=379f2d918231ee7c1e0531e02ecbd2c3&txTime=699065b6
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee Liverpool 
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=5180922c2ee2d2f1f6c11e5b40f2ccda&txTime=6990c832
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=5180922c2ee2d2f1f6c11e5b40f2ccda&txTime=6990c832
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter vs Juventus 
+https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=b569cda400935e4bc74f5a1830310aed&txTime=6990ce98
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter 
+https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=b569cda400935e4bc74f5a1830310aed&txTime=6990ce98
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
