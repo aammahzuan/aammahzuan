@@ -1,7 +1,12 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",livee Liga 111
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=0286a2d1ecd4b4624f0cf7debc0c19e1&txTime=6991b34b
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Bali unuet 
-https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=0286a2d1ecd4b4624f0cf7debc0c19e1&txTime=6991b34b
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee Liga igris https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=52a802294062c4be030b3a4d62881c41&txTime=699611c1
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
+https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=52a802294062c4be030b3a4d62881c41&txTime=699611c1
+#EXTINF:-1 tvg-logo="" group-title="LIVE",atm 
+https://bf.jlbflive.cc/live/5005029_hd01.m3u8?txSecret=bb4a5d547501244c120b8333e2db73b7&txTime=69960974
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=85a1f3b0caac6ecba0d7522f7a571562&txTime=69961486
+#EXTINF:-1 tvg-logo="" group-title="LIVE",inter
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=85a1f3b0caac6ecba0d7522f7a571562&txTime=69961486
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
