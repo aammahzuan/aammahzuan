@@ -1,17 +1,11 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/ApisTECH.xml.gz" $BorpasFileFormat="1"
-
-#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
-#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
-https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
-https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=dash
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 3
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=897186e7d2831fa148cc87d4826caf66&txTime=699863b3
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=897186e7d2831fa148cc87d4826caf66&txTime=699863b3
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
+https://bf.jlbflive.cc/live/5004980_hd01.m3u8?txSecret=7376fc83304d4e5de648db79c73cb624&txTime=699862ad
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 3
+https://bf.jlbflive.cc/live/5005018_hd01.m3u8?txSecret=f756ae264b10940f6352185727eaca2a&txTime=6998686a
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
