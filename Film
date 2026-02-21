@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE", liveee https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=98a4718bf71b47c3d9369bfcb005a8ba&txTime=699a0ea8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",mccvc
+https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e9eb30ffde787ebaebeb6ec73ce51ad&txTime=699a0ff6
 #EXTINF:-1 tvg-logo="" group-title="LIVE",psg
 https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=98a4718bf71b47c3d9369bfcb005a8ba&txTime=699a0ea8
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
