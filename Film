@@ -1,12 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=98a4718bf71b47c3d9369bfcb005a8ba&txTime=699a0ea8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",mccvc
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e9eb30ffde787ebaebeb6ec73ce51ad&txTime=699a0ff6
-#EXTINF:-1 tvg-logo="" group-title="LIVE",psg
-https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=98a4718bf71b47c3d9369bfcb005a8ba&txTime=699a0ea8
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e9eb30ffde787ebaebeb6ec73ce51ad&txTime=699a0ff6
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=4e9eb30ffde787ebaebeb6ec73ce51ad&txTime=699a0ff6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee Konoha https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=959dabc39ab96136076313a6118537e2&txTime=699b0a20
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jlbflive.cc/live/5005010_hd01.m3u8?txSecret=959dabc39ab96136076313a6118537e2&txTime=699b0a20
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=7a6d783f2ff51cb591a390a00a4ef0aa&txTime=699b0744
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
