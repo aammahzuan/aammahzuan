@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live Juventus https://bf.jlbflive.cc/live/322801_hd01.m3u8?txSecret=3076d8740b3bdfa2f4cec90aefa055c1&txTime=699f5280
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Madrid 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=fe8edf7d87f0eb09b9e752b5f60f8e51&txTime=699f4f40
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Madrid vs 
-https://bf.jlbflive.cc/live/5004470_hd01.m3u8?txSecret=fe8edf7d87f0eb09b9e752b5f60f8e51&txTime=699f4f40
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=97faae02c86587d7a92f2272c2f87492&txTime=69a30747
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=97faae02c86587d7a92f2272c2f87492&txTime=69a30747
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
