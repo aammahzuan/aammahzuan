@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=97faae02c86587d7a92f2272c2f87492&txTime=69a30747
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jlbflive.cc/live/5004991_hd01.m3u8?txSecret=97faae02c86587d7a92f2272c2f87492&txTime=69a30747
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
+#EXTINF:-1 tvg-logo="" group-title="LIVE",city https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4ac9215ba64faf5a0da23b78f6e50138&txTime=69a33e4a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liga inggris 
+https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4ac9215ba64faf5a0da23b78f6e50138&txTime=69a33e4atvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
