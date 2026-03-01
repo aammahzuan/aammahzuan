@@ -1,10 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",city https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4ac9215ba64faf5a0da23b78f6e50138&txTime=69a33e4a
-#EXTINF:-1 tvg-logo="" group-title="LIVE",inter
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=a617c84f546780e28b219a4b219269e3&txTime=69a3384d
-#EXTINF:-1 tvg-logo="" group-title="LIVE",in live 
-https://bf.jlbflive.cc/live/322720_hd01.m3u8?txSecret=a617c84f546780e28b219a4b219269e3&txTime=69a3384d
 #EXTINF:-1 tvg-logo="" group-title="LIVE", Liga inggris 
-https://bf.jlbflive.cc/live/322693_hd01.m3u8?txSecret=4ac9215ba64faf5a0da23b78f6e50138&txTime=69a33e4atvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=b7a8d8619c0bb4f3d77f85eee54e25a3&txTime=69a44110
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester united 
+https://bf.jlbflive.cc/live/322677_hd01.m3u8?txSecret=b7a8d8619c0bb4f3d77f85eee54e25a3&txTime=69a44110
+.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
