@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",atm https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=b5e49f3aea50f4504e0c52d8a025dd6b&txTime=69a73c56
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jabflive.com/live/322713_hd01.m3u8?txSecret=78f4bb1bea1374c265e4a05c806d8649&txTime=69a74265
 #EXTINF:-1 tvg-logo="" group-title="LIVE",barca
 https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=b5e49f3aea50f4504e0c52d8a025dd6b&txTime=69a73c56
 #EXTINF:-1 tvg-logo="" group-title="LIVE",inter Milan 
