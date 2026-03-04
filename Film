@@ -1,10 +1,12 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",atm https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=b5e49f3aea50f4504e0c52d8a025dd6b&txTime=69a73c56
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
-https://bf.jabflive.com/live/322713_hd01.m3u8?txSecret=78f4bb1bea1374c265e4a05c806d8649&txTime=69a74265
-#EXTINF:-1 tvg-logo="" group-title="LIVE",barca
-https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=b5e49f3aea50f4504e0c52d8a025dd6b&txTime=69a73c56
-#EXTINF:-1 tvg-logo="" group-title="LIVE",inter Milan 
-https://bf.jabflive.com/live/5005010_hd01.m3u8?txSecret=46dee35d7656316872ffdbc11d488e67&txTime=69a7385c
+#EXTINF:-1 tvg-logo="" group-title="LIVE",5 ttps://bf.jabflive.com/live/5005074_hd01.m3u8?txSecret=c383975ff1863f77c034abb27f04bd4c&txTime=69a88ca0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 1
+https://bf.jabflive.com/live/5005074_hd01.m3u8?txSecret=c383975ff1863f77c034abb27f04bd4c&txTime=69a88ca0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2
+https://bf.jabflive.com/live/5005074_hd01.m3u8?txSecret=c383975ff1863f77c034abb27f04bd4c&txTime=69a88ca0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",3
+https://bf.jabflive.com/live/5004975_hd01.m3u8?txSecret=9ed0ac8f13c26533a94c20e443e75ced&txTime=69a8816f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",4
+https://bf.jabflive.com/live/322801_hd01.m3u8?txSecret=9337564c5b447e015d79be915fb9890e&txTime=69a88c55
 .png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
