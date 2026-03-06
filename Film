@@ -1,10 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE , 6https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=0a6335f7eb306250fee2ac48b995851c&txTime=69a9d6d7
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Inggris 
-https://bf.jabflive.com/live/5004470_hd01.m3u8?txSecret=c41c3e0b2043f84bed1dc6c07a86e93e&txTime=69a9db94
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://bf.jabflive.com/live/5004470_hd01.m3u8?txSecret=c41c3e0b2043f84bed1dc6c07a86e93e&txTime=69a9db94
-#EXTINF:-1 tvg-logo="" group-title="LIVE",8
-https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=0a6335f7eb306250fee2ac48b995851c&txTime=69a9d6d7
+#EXTINF:-1 tvg-logo="" group-title="LIVE , inggris https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=f09087bac7246424f6a6dd355e3035db&txTime=69ab34b0
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jabflive.com/live/5005009_hd01.m3u8?txSecret=f09087bac7246424f6a6dd355e3035db&txTime=69ab34b0
 .png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTM3U
