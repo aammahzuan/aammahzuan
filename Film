@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE ,11 https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=779ea9c53d1ec393b1d1b655d2aef329&txTime=69ac23cf
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=779ea9c53d1ec393b1d1b655d2aef329&txTime=69ac23cf
-.png" group-title="BRI LIGA 1",PLAY 1 (BRI liga 1)
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE ,18 https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=cb0376bbff714275042b9da7a9538680&txTime=69ac855f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
+https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=cb0376bbff714275042b9da7a9538680&txTime=69ac855f
 #EXTM3U
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
