@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE ,18 https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=cb0376bbff714275042b9da7a9538680&txTime=69ac855f
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Manchester city 
-https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=cb0376bbff714275042b9da7a9538680&txTime=69ac855f
+#EXTINF:-1 tvg-logo="" group-title="LIVE ,mm https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=03391ed8c0cc39503bcca2f620a00f72&txTime=69add368
+#EXTINF:-1 tvg-logo="" group-title="LIVE",milan
+https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=03391ed8c0cc39503bcca2f620a00f72&txTime=69add368
 #EXTM3U
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
