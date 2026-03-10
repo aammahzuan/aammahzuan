@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE ,liga 1FAhttps://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=f1e56cafaaff318832e23ec961be82b7&txTime=69b01de1
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Konoha Liga 1
-https://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=f1e56cafaaff318832e23ec961be82b7&txTime=69b01de1
+#EXTINF:-1 tvg-logo="" group-title="LIVE ,ligahttps://bf.jabflive.com/live/5004993_hd01.m3u8?txSecret=99c998b6fb66bf624c8e50bd785b6b7b&txTime=69b05367
+#EXTINF:-1 tvg-logo="" group-title="LIVE", champion 
+https://bf.jabflive.com/live/5004993_hd01.m3u8?txSecret=99c998b6fb66bf624c8e50bd785b6b7b&txTime=69b05367
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
