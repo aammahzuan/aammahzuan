@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE ,ligahttps://bf.jabflive.com/live/5004993_hd01.m3u8?txSecret=99c998b6fb66bf624c8e50bd785b6b7b&txTime=69b05367
 #EXTINF:-1 tvg-logo="" group-title="LIVE", champion 
+https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=1e354c25d8921671e37ac4d5a71faf9a&txTime=69b06737
+#EXTINF:-1 tvg-logo="" group-title="LIVE", champion 
 https://bf.jabflive.com/live/5004993_hd01.m3u8?txSecret=99c998b6fb66bf624c8e50bd785b6b7b&txTime=69b05367
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
