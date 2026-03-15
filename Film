@@ -1,9 +1,8 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",mdrit 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=6bbeaab7119f30bcdb9ba10895b54a08&txTime=69b5b6cd#EXTINF:-1 tvg-logo="" group-title="LIVE",live city https://bf.jabflive.com/live/322801_hd01.m3u8?txSecret=a9d5ef121ffd088c71643ec609c4ed9c&txTime=69b5b65e
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Madrid 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=6bbeaab7119f30bcdb9ba10895b54a08&txTime=69b5b6cd
-#EXTINF:-1 tvg-logo="" group-title="LIVE", city 
-https://bf.jabflive.com/live/322801_hd01.m3u8?txSecret=a9d5ef121ffd088c71643ec609c4ed9c&txTime=69b5b65e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=e8572254cd6aed87767d087817df71a6&txTime=69b6ba15
+#EXTINF:-1 tvg-logo="" group-title="LIVE",lga 1
+https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=e8572254cd6aed87767d087817df71a6&txTime=69b6ba15
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
+https://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=a2932e86942f1795bd3857a52c13abfb&txTime=69b6b4f8
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
