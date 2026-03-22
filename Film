@@ -1,13 +1,14 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=bfb1ec9f18434fc4930c4faa23f90e86&txTime=69be930f
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga Inggris 
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=bfb1ec9f18434fc4930c4faa23f90e86&txTime=69be930f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=4e43d823ac2c0e38e742a012074603e8&txTime=69c010ff
+#EXTINF:-1 tvg-logo="" group-title="LIVE", final 
+https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=4e43d823ac2c0e38e742a012074603e8&txTime=69c010ff
+
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/sctv.png" #EXTINF:-1 tvg-logo="" group-title="LIVE",group-title="Suport Kitkat",SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="Suport Kitkat",SCTV
 https://mantul.biz.id:443/user010223/user010223/432.ts
