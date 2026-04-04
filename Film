@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Timnas Indonesia https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=aa10f63eefdceef8d0bc64033dba7151&txTime=69ca6656
-#EXTINF:-1 tvg-logo="" group-title="LIVE", timnas 1
-https://bf.jabflive.com/live/322693_hd01.m3u8?txSecret=e471568ee933312ff9141398a989084a&txTime=69ca7446
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=aa10f63eefdceef8d0bc64033dba7151&txTime=69ca6656
+#EXTINF:-1 tvg-logo="" group-title="LIVE", TIndonesia https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=088501a9b0e964557e6179a1652a7a94&txTime=69d0c390
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=088501a9b0e964557e6179a1652a7a94&txTime=69d0c390
 
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
