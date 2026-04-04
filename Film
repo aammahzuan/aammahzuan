@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", TIndonesia https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=088501a9b0e964557e6179a1652a7a94&txTime=69d0c390
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=088501a9b0e964557e6179a1652a7a94&txTime=69d0c390
+#EXTINF:-1 tvg-logo="" group-title="LIVE",city https://bf.jabflive.com/live/5004470_hd01.m3u8?txSecret=001e99fdba54b8bc095022e52f6013ac&txTime=69d0ef02
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://bf.jabflive.com/live/5004470_hd01.m3u8?txSecret=001e99fdba54b8bc095022e52f6013ac&txTime=69d0ef02
 
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
