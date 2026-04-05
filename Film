@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Liga Konoha 
-https://bf.jabflive.com/live/322666_hd01.m3u8?txSecret=9a1b865cdeb6ffc2fb3a36a7306c08fe&txTime=69d221e4
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persija 
-https://bf.jabflive.com/live/322666_hd01.m3u8?txSecret=9a1b865cdeb6ffc2fb3a36a7306c08fe&txTime=69d221e4
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liga1 
+ https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=78b1e75cca10c1d3337dc1a367b156c3&txTime=69d24569
+#EXTINF:-1 tvg-logo="" group-title="LIVE",semen Padang 
+https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=78b1e75cca10c1d3337dc1a367b156c3&txTime=69d24569
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
