@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",live 2https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=d49fad0842f259d9070c84d7b1df7299&txTime=69db8862
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1 live 
-https://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=f27fc65754d6479f96ea3a106d2f5c56&txTime=69db8a46
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 3
-https://bf.jabflive.com/live/5004991_hd01.m3u8?txSecret=d49fad0842f259d9070c84d7b1df7299&txTime=69db8862
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=40d6b83e053ce73a6405e991d634ae12&txTime=69dcd98c
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia u17
+https://bf.jabflive.com/live/5004994_hd01.m3u8?txSecret=40d6b83e053ce73a6405e991d634ae12&txTime=69dcd98c
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
