@@ -1,7 +1,10 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://bf.jabflive.com/live/322720_hd01.m3u8?txSecret=cf5b27705b3a381861215a57647c9018&txTime=69e3d9b6
-#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
-https://bf.jabflive.com/live/322720_hd01.m3u8?txSecret=cf5b27705b3a381861215a57647c9018&txTime=69e3d9b6
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liga 1https://bf.jabflive.com/live/5004449_hd01.m3u8?txSecret=09005050cb73321416e9f9f77075c5da&txTime=69e4cd7f
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liga inggris 
+https://bf.jabflive.com/live/322677_hd01.m3u8?txSecret=0bb7246ecf99e23fc3d5d141b71092e4&txTime=69e4c56e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",u17
+https://bf.jabflive.com/live/5005010_hd01.m3u8?txSecret=fe2288c1bb97c7f532347286b53334ab&txTime=69e4ca7b
+#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
+https://bf.jabflive.com/live/5004449_hd01.m3u8?txSecret=09005050cb73321416e9f9f77075c5da&txTime=69e4cd7f
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
