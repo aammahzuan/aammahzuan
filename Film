@@ -1,6 +1,6 @@
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=9fadec92603262735a397f9eccd72df3&txTime=69f85243
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib Bandung 
-https://bf.jabflive.com/live/5004438_hd01.m3u8?txSecret=9fadec92603262735a397f9eccd72df3&txTime=69f85243
+#EXTINF:-1 tvg-logo="" group-title="LIVE",12 https://bf.jabflive.com/live/5005099_hd01.m3u8?txSecret=ead0f799b65a55fe75b8da67247819f1&txTime=69f8852d
+#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
+https://bf.jabflive.com/live/5005099_hd01.m3u8?txSecret=ead0f799b65a55fe75b8da67247819f1&txTime=69f8852d
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
