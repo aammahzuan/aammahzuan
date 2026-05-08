@@ -1,7 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", champion 
-https://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=2925c28f08ab1ebd25d5cf920d46c30b&txTime=69fb8865
-#EXTINF:-1 tvg-logo="" group-title="LIVE",fc Bayern Munich 
-https://bf.jabflive.com/live/5004980_hd01.m3u8?txSecret=2925c28f08ab1ebd25d5cf920d46c30b&txTime=69fb8865
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jabflive.com/live/5005086_hd01.m3u8?txSecret=895af643db5ea9b513fc3f63f6d99aa9&txTime=69fda91c
+
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
