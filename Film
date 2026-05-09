@@ -1,7 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",bri liga
-https://bf.jabflive.com/live/5005098_hd01.m3u8?txSecret=4a1d8e1abfb0dcc51e346547ccbadd6c&txTime=69fdcdea
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://bf.jabflive.com/live/5005098_hd01.m3u8?txSecret=4a1d8e1abfb0dcc51e346547ccbadd6c&txTime=69fdcdea
+
 #EXTINF:-1 tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
