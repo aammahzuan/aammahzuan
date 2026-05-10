@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga bola 
-https://bf.jabflive.com/live/5005099_hd01.m3u8?txSecret=d725077b0c363ff3e937451466f16a89&txTime=69ff2747
-#EXTINF:-1 tvg-logo="" group-title="LIVE", MC city 
-https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=30d8274dd11947d1aaf3d01d65c03baf&txTime=69ff557b
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee 
-https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=30d8274dd11947d1aaf3d01d65c03baf&txTime=69ff557b
+#EXTINF:-1 tvg-logo="" group-title="LIVE",ufcc
+https://bf.jabflive.com/live/5004432_hd01.m3u8?txSecret=43899be142dd1b07c49c174088b54689&txTime=69ffe6b0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",ufc 1
+https://bf.jabflive.com/live/5004432_hd01.m3u8?txSecret=43899be142dd1b07c49c174088b54689&txTime=69ffe6b0
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
