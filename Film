@@ -1,8 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",gpp
-https://vkvsd206.okcdn.ru/hls/15122250861067.m3u8/sig/W5ixklkbO2g/expires/1778487976426/srcIp/103.166.159.167/urls/45.136.21.59/clientType/14/srcAg/CHROME_ANDROID/mid/14255729617675/15122250861067/video.m3u8?p
-#EXTINF:-1 tvg-logo="" group-title="LIVE",gpp
-https://vkvsd206.okcdn.ru/hls/15122250861067.m3u8/sig/W5ixklkbO2g/expires/1778487976426/srcIp/103.166.159.167/urls/45.136.21.59/clientType/14/srcAg/CHROME_ANDROID/mid/14255729617675/15122250861067/video.m3u8?p#EXTINF:-1 tvg-logo="" group-title="LIVE", Persib 
-https://bf.jabflive.com/live/5004995_hd01.m3u8?txSecret=3ee6451f968fac602412f229061c5d15&txTime=6a005a17
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
+https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=0aaee7e62ff0dd2d4d8cf15151b4b16d&txTime=6a009cbe
+#EXTINF:-1 tvg-logo="" group-title="LIVE", live 
+https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=0aaee7e62ff0dd2d4d8cf15151b4b16d&txTime=6a009cbe
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
