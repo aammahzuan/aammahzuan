@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=0aaee7e62ff0dd2d4d8cf15151b4b16d&txTime=6a009cbe
-#EXTINF:-1 tvg-logo="" group-title="LIVE", live 
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=0aaee7e62ff0dd2d4d8cf15151b4b16d&txTime=6a009cbe
+#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
+https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=490b86127da8edd9c61764c78d52a9d1&txTime=6a06cfb9
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1
+https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=490b86127da8edd9c61764c78d52a9d1&txTime=6a06cfb9
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
