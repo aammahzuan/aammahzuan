@@ -1,7 +1,10 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",bri
-https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=490b86127da8edd9c61764c78d52a9d1&txTime=6a06cfb9
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://bf.jabflive.com/live/322707_hd01.m3u8?txSecret=490b86127da8edd9c61764c78d52a9d1&txTime=6a06cfb9
+https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",volly jkt
+https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
+https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=b474906f6ad2574415038c8fbbda38aa&txTime=6a085246
+#EXTINF:-1 tvg-logo="" group-title="LIVE",voly1
+https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
