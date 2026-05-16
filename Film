@@ -1,8 +1,7 @@
-https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
-#EXTINF:-1 tvg-logo="" group-title="LIVE",volly jkt
-https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://bf.jabflive.com/live/5004447_hd01.m3u8?txSecret=b474906f6ad2574415038c8fbbda38aa&txTime=6a085246
+#EXTINF:-1 tvg-logo="" group-title="LIVE",final chelsea 
+https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=2512f2d378615d14c31821fa1d7c58ea&txTime=6a086bb4
+#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee 
+https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=2512f2d378615d14c31821fa1d7c58ea&txTime=6a086bb4
 #EXTINF:-1 tvg-logo="" group-title="LIVE",voly1
 https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
