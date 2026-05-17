@@ -1,5 +1,9 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",GP
 https://vkvsd232.okcdn.ru/hls/14943920130672.m3u8/sig/QSFJTXwQ9_M/srcIp/103.166.159.167/urls/45.136.21.62/expires/1779464271093/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/14023655107440/id/14943920130672/14943920130672/video.m3u8?p
+#EXTINF:-1 tvg-logo="" group-title="LIVE",volyy
+https://bf.jabflive.com/live/5004264_hd01.m3u8?txSecret=7a60959e5928973b6bcc8fd3f38efe77&txTime=6a09b27e
+#EXTINF:-1 tvg-logo="" group-title="LIVE",voly1
+https://bf.jabflive.com/live/5004264_hd01.m3u8?txSecret=7a60959e5928973b6bcc8fd3f38efe77&txTime=6a09b27e
 #EXTINF:-1 tvg-logo="" group-title="LIVE",livee
 https://vkvsd232.okcdn.ru/hls/14943920130672.m3u8/sig/QSFJTXwQ9_M/srcIp/103.166.159.167/urls/45.136.21.62/expires/1779464271093/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/14023655107440/id/14943920130672/14943920130672/video.m3u8?p
 #EXTINF:-1 tvg-logo="" group-title="LIVE",liga Inggris 
