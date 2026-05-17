@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",final chelsea 
-https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=2512f2d378615d14c31821fa1d7c58ea&txTime=6a086bb4
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liveee 
-https://bf.jabflive.com/live/5005018_hd01.m3u8?txSecret=2512f2d378615d14c31821fa1d7c58ea&txTime=6a086bb4
-#EXTINF:-1 tvg-logo="" group-title="LIVE",voly1
-https://bf.jabflive.com/live/322654_hd01.m3u8?txSecret=ca3fe98fd14be8134ea2f4f44c12d245&txTime=6a0859bb
+#EXTINF:-1 tvg-logo="" group-title="LIVE",GP
+https://vkvsd232.okcdn.ru/hls/14943920130672.m3u8/sig/QSFJTXwQ9_M/srcIp/103.166.159.167/urls/45.136.21.62/expires/1779464271093/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/14023655107440/id/14943920130672/14943920130672/video.m3u8?p
+#EXTINF:-1 tvg-logo="" group-title="LIVE",livee
+https://vkvsd232.okcdn.ru/hls/14943920130672.m3u8/sig/QSFJTXwQ9_M/srcIp/103.166.159.167/urls/45.136.21.62/expires/1779464271093/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/14023655107440/id/14943920130672/14943920130672/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
