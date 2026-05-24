@@ -1,11 +1,9 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",liga 1
-https://live.hystreaming.com/live/5005098_F5hd01.m3u8?expire=1779466055&sign=c45cfd0ef12e652e51051dc61c1b8a75
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://live.hystreaming.com/live/5005098_F5hd01.m3u8?expire=1779466055&sign=c45cfd0ef12e652e51051dc61c1b8a75
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTINF:-1 tvg-logo="" group-title="LIVE",loga Inggris 1
+https://bf.jabflive.com/live/5005099_hd01.m3u8?txSecret=363dd268fe2b661043ad599b43cd9d38&txTime=6a130866
+#EXTINF:-1 tvg-logo="" group-title="LIVE",2
+https://bf.jabflive.com/live/5005201_hd01.m3u8?txSecret=c4ff4072c8f6702f3d68be6e73220550&txTime=6a131075
+#EXTINF:-1 tvg-logo="" group-title="LIVE",3
+https://bf.jabflive.com/live/5005186_hd01.m3u8?txSecret=364ee363c82a6926a48e896541f7eba2&txTime=6a130bdd
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
