@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",llie
-https://bf.jabflive.com/live/5005132_hd01.m3u8?txSecret=b7ac79947f25179e64dbb29dff66f75c&txTime=6a153534
+#EXTINF:-1 tvg-logo="" group-title="LIVE",GP
+https://vkvsd266.okcdn.ru/hls/16960990153254.m3u8/sig/_-hNMiW8j8Y/srcIp/103.166.159.167/urls/45.136.21.84/expires/1780582754584/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/15323940334374/id/16960990153254/16960990153254/video.m3u8?p
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1
+https://vkvsd266.okcdn.ru/hls/16960990153254.m3u8/sig/_-hNMiW8j8Y/srcIp/103.166.159.167/urls/45.136.21.84/expires/1780582754584/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/15323940334374/id/16960990153254/16960990153254/video.m3u8?p
