@@ -1,8 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 
-https://play.heyangstream.com/live/5005461_F5hd01.m3u8?expire=1780331133&sign=245f1d582bfd9795480f01779cbbcc12
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u17 111
-https://play.heyangstream.com/live/5005461_F5hd01.m3u8?expire=1780331133&sign=245f1d582bfd9795480f01779cbbcc12
-#EXTINF:-1 tvg-logo="" group-title="LIVE",u17
-https://play.heyangstream.com/live/5005461_F5hd01.m3u8?expire=1780331133&sign=245f1d582bfd9795480f01779cbbcc12
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia 222
-https://play.heyangstream.com/live/5005461_F5hd01.m3u8?expire=1780331133&sign=245f1d582bfd9795480f01779cbbcc12
+#EXTINF:-1 tvg-logo="" group-title="LIVE",VNl
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rDLqpy3B/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",volij
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/rDLqpy3B/live.isml/.m3u8
