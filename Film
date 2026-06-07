@@ -1,8 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Brazil 
-https://play.heyangstream.com/live/5005741_F5hd01.m3u8?expire=1780797476&sign=c88adebe185e44cc2960f20a557ee8b1
-#EXTINF:-1 tvg-logo="" group-title="LIVE",1
-https://live.vivo200.com/live/hd-en-1-4510341.m3u8?txSecret=968c954c60134128219b56c9c240885e&txTime=6A249D39
-#EXTINF:-1 tvg-logo="" group-title="LIVE",2
-https://live.vivo200.com/live/sd-1-4510341.m3u8?txSecret=834135affa2672043bbbd8692f383ee1&txTime=6A24A425
-#EXTINF:-1 tvg-logo="" group-title="LIVE",666
-https://play.heyangstream.com/live/5005741_F5hd01.m3u8?expire=1780797476&sign=c88adebe185e44cc2960f20a557ee8b1
+#EXTINF:-1 tvg-logo="" group-title="LIVE",u19
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",indo
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
