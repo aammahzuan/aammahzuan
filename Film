@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",22
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE",tr7
-https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", vnl
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kpPn4ttb/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",1
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kpPn4ttb/live.isml/.m3u8
