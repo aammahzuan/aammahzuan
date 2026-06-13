@@ -2,3 +2,7 @@
 https://play.heyangstream.com/live/5005886_F5hd01.m3u8?expire=1781354070&sign=431756bd009233aeed51484cf96e8647
 #EXTINF:-1 tvg-logo="" group-title="LIVE",u19
 https://play.heyangstream.com/live/5005886_F5hd01.m3u8?expire=1781354070&sign=431756bd009233aeed51484cf96e8647
+#EXTINF:-1 tvg-logo="" group-title="LIVE",voly
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kLKf9VLO/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE",vnl
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kLKf9VLO/live.isml/.m3u8
