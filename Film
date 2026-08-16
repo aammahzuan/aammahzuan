@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", Indonesia Singapore 
-https://play.heyangstream.com/live/5005343_F5hd01.m3u8?expire=1786117302&sign=8249c4558efa82c521381525df3efe10
-
-#EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Arsenal 
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5371734_2.m3u8?auth_key=1786974852-0-0-dc9d7ca438100cc5e1c6d7159068b1e3
+#EXTINF:-1 tvg-logo="" group-title="LIVE",55
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5371734_1.m3u8?auth_key=1786974253-0-0-9dadd66f2dc363106fe49e62ca332ed4
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
