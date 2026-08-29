@@ -1,7 +1,5 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",mm
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5539182_2.m3u8?auth_key=1787856926-0-0-29ecb1a1611b4242838319e721ea8404
-#EXTINF:-1 tvg-logo="" group-title="LIVE",222
-https://pull.streamviewk7x.click/livesp/sd-6MweaGwkYxbuPJGKCN_hd.m3u8?txSecret=9a8f54f37ad449b0a0bd31e4650ce118&txTime=6A908930
+#EXTINF:-1 tvg-logo="" group-title="LIVE",liver poll
+https://pull.streamviewk7x.click/livesp/hd-en-6MwdqQgnzGjefZ6nPk_hd.m3u8?txSecret=b14e291844e88b7b3688560d7f34a6dd&txTime=6A941438
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
