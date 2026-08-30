@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5540335_1.m3u8?auth_key=1788180334-0-0-1715ae4290a0e7c40a042b382488256a
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Madrid 
+https://live.vivo200.com/live/sd-1-4565352.m3u8?txSecret=833c5e89f4e81f4a739f2dbffb1cf2b0&txTime=6A945888
 #EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://live3.ftlcbx.com/live/72221216_e8031fbf75da0edecd0b68ad7a6f30b7_1080p.m3u8?auth_key=1788109025-0-0-6278320df673813decc6c0cab3cabe65
+https://bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
