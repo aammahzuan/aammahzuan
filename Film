@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE",888
-https://pull.streamviewk7x.click/livesp/hd-en-6MweaGwjP66Hc3dyUe_hd.m3u8?txSecret=157237d7f40bef9225b084d46b0b585d&txTime=6A9596F0
+#EXTINF:-1 tvg-logo="" group-title="LIVE",rr
+https://pull.streamviewk7x.click/livesp/sd-6MweaGwjieEEhbvrdG_hd.m3u8?txSecret=31cca3a884f23a2b7ac5e1f3ecdf0f9a&txTime=6A9B4D70
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
