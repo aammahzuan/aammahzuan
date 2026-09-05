@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-logo="" group-title="LIVE",cccy
 https://live.vivo200.com/live/sd-1-4558527.m3u8?txSecret=877b9199e9bd2f00b0b330c9d05160e1&txTime=6A9C335A
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE",yyy
+https://live1.ftlcbx.com/live/72221246_c06810c78a7251914ee296f4f425c20d_1080p.m3u8?auth_key=1788630805-0-0-516a4e503cb6e45b524601304852bcf2
 #EXTINF:-1 tvg-id="Trans7.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
