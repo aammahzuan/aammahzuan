@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-logo="" group-title="LIVE", LV4
-https://pull.streamviewk7x.click/livesp/sd-6MwdqQhYensXfWaQDQ_hd.m3u8?txSecret=2fbaa2a44b52448cc5b2b9ed5d1d04be&txTime=6AA6AC60
+#EXTINF:-1 tvg-logo="" group-title="LIVE", Liverpool 
+https://play.heyangstream.com/live/5007242_F5hd01.m3u8?expire=1789237510&sign=fea744cf4cf077ec5c3752073e712a40
+#EXTINF:-1 tvg-logo="" group-title="LIVE", chelsea 1
+https://play.heyangstream.com/live/5008798_F5hd01.m3u8?expire=1789239422&sign=c94d6714488a80a1239ca6684c28cbf2
 #EXTINF:-1 tvg-logo="" group-title="LIVE",chlse
 https://pull.streamviewk7x.click/livesp/sd-6MwdqQhZUqrqFr8SiE_hd.m3u8?txSecret=2821a1d5dc8a9bb666f4c1bc197cd592&txTime=6AA6AC60
 #EXTINF:-1 tvg-logo="" group-title="LIVE",lliiv
