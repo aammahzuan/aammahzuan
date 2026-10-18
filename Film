@@ -1,8 +1,6 @@
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE", liga inggris 
-https://pul-tenm.gkykp.com/live/hd-en-1-4558609.m3u8?txSecret=644491958a1e94290a3aa126a1b6ea90&txTime=6AD4CF01
-#EXTINF:-1 tvg-logo="" group-title="LIVE",11
-https://pull.streamviewk7x.click/livesp/sd-6MwdqQhXoq8hBfCN34_hd.m3u8?txSecret=e096b2fc286f06733ed6820b20c8ef62&txTime=6AD4D0E0#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,http://iptvtree.net:8080/xmltv.php?username=F28312&password=cc1dc138" refresh="3600"
+#EXTINF:-1 tvg-logo="" group-title="LIVE", badminton 
+https://tfyi0grauqmtofaauqmt1gy3145djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel60.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,http://iptvtree.net:8080/xmltv.php?username=F28312&password=cc1dc138" refresh="3600"
 
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml" refresh="3600"
 
